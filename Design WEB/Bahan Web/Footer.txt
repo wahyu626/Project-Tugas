@@ -1,0 +1,67 @@
+<footer class="footerv2">
+	<input type="hidden" labeLing="ga-spm" value=""/>
+    <!-- GA Data Analysis End-->
+	<div class="footerv2-link">
+		<div class="footerv2-wrapper footerv2--clearfix">
+			<div class="footerv2-linkleft footerv2--clearfix">
+				<div class="footerv2-linkleft__wrap">
+					<p>Info BLANJA</p>
+					<ul class="footerv2-linkleft__list">
+						<li><a href="http://karir.blanja.com/">Karir - <b><span style="color: #E3211D">We're Hiring!</span></b></a></li>
+						<li><a href="http://blog.blanja.com/">Blog Resmi</a></li>
+						<li><a href="//www.blanja.com/help/questionlist-45-1">Perjanjian Pengguna</a></li>
+						<li><a href="//www.blanja.com/help/questionlist-47-1">Kebijakan Privasi</a></li>
+						<li><a href="//www.blanja.com/kp/term-condition-blanja">Syarat &amp; Ketentuan</a></li>
+						<li><a href="//www.blanja.com/help/faq-0-0">FAQ (Bantuan)</a></li>
+					</ul>
+				</div>
+				<div class="footerv2-linkleft__wrap">
+					<p>Blanja di BLANJA.com</p>
+					<ul class="footerv2-linkleft__list">
+						<li><a href="//www.blanja.com/help/questionlist-1-0">Pengguna Baru</a></li>
+						<li><a href="//www.blanja.com/help/questionlist-11-0">Bertransaksi</a></li>
+						<li><a href="//www.blanja.com/help/questionlist-12-1">Metode Pembayaran</a></li>
+						<li><a href="//www.blanja.com/help/questionlist-20-0">Pengembalian Barang</a></li>
+					</ul>
+				</div>
+				<div class="footerv2-linkleft__wrap">
+					<p>Berjualan di BLANJA.com</p>
+					<ul class="footerv2-linkleft__list">
+						<li><a href="//www.blanja.com/help/questionlist-22-1">Membuka Toko</a></li>
+						<li><a href="//www.blanja.com/help/questionlist-26-1">Mengelola Produk</a></li>
+						<li><a href="//www.blanja.com/help/questionlist-46-1">Persetujuan Penjual</a></li>
+					</ul>
+				</div>
+				<div class="footerv2-linkleft__wrap">
+					<p>Layanan Pelanggan</p>
+					<ul class="footerv2-linkleft__list">
+						<li><a href="javascript:void(0)" id="zenboxfooter"><img src="//s2.blanja.com/static/public/prime/img/footer/social/ic_chat_cs.png">Live Support</a></li>
+						<li><a href="tel:+622180667878"><img src="//s2.blanja.com/static/public/prime/img/footer/social/phone.png">021 - 8066 7878</a></li>
+						<li><a href="mailto:support@blanja.com"><img src="//s2.blanja.com/static/public/prime/img/footer/social/mail.png">support@blanja.com</a></li>
+						<li><a href="javascript:void(0)" id="suggestInstabug" onclick="ibgSdk.reportBug()"><img src="//s2.blanja.com/static/public/prime/img/footer/social/bugs.png">Laporkan Gangguan dan Saran</a></li>
+					</ul>
+					
+				</div>
+			</div>
+			<div class="footerv2-linkright">
+				<p>Temukan BLANJA di</p>
+				<ul class="footerv2-linkright__list-social footerv2--clearfix">
+					<li><a href="http://www.facebook.com/blanjacom" target="_blank"><img src="//s2.blanja.com/static/public/prime/img/footer/social/fb.png"></a></li>
+					<li><a href="http://twitter.com/blanjacom" target="_blank"><img src="//s2.blanja.com/static/public/prime/img/footer/social/twitter.png"></a></li>
+					<li><a href="https://www.youtube.com/c/blanja" target="_blank"><img src="//s2.blanja.com/static/public/prime/img/footer/social/youtube.png"></a></li>
+					<li><a href="http://www.instagram.com/blanjacom" target="_blank"><img src="//s2.blanja.com/static/public/prime/img/footer/social/ig.png"></a></li>
+					<li><a href="http://www.linkedin.com/company/blanja-com" target="_blank"><img src="//s2.blanja.com/static/public/prime/img/footer/social/linkedin.png"></a></li>
+				</ul>
+				
+				<ul class="footerv2-linkright__app">
+					<li><a href="https://play.google.com/store/apps/details?id=com.blanja.apps.android" target="_blank"><img src="//s2.blanja.com/static/public/prime/img/footer/social/googleplay@2x.png"></a></li>
+					<li><a href="https://itunes.apple.com/id/app/blanja-jual-beli-online/id1167022068?l=id&mt=8" target="_blank"><img src="//s2.blanja.com/static/public/prime/img/footer/social/appstore@2x.png"></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="footerv2-copyright">
+        <p>Copyright 2019 &copy; MetraPlasa. All Rights Reserved. | <a href="mailto:support@blanja.com">support@blanja.com</a></p>
+    </div>
+    <div id="mask"></div>
+</footer>

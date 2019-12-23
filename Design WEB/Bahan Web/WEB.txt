@@ -1,0 +1,2296 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html> <!--<![endif]-->
+<head>
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+//<![CDATA[
+window["_csrf_"] = "083a6769a9848800079e05a8dc1b705654f0054a81c3e0205b07dca01f813af9e667fb10b6adb8d071d7522d569b097a13640bc79b40e73493f67b2c9a7f4e2cdccfc935121ba88b34e023b9790f847bb66d72c36954995187678a173092ecb0ab5dd3293fdacd6543fa5cb992f7a7e96c57b651ea03d24f0f14a19059c7cbc0b510d3c231d238c09430c93d56779eb9";
+//]]>
+</script><script type="text/javascript" src="/TSbd/081ebfdb40ab2000e93afd89f941d3df249a9867d88590d094446b97fb9a95af08b2d09346319e80?type=2"></script><script>
+	var dataLayerJson = {};
+	dataLayer = [];
+	
+	(function(w,d,s,l,i) {
+		w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+		var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;
+		j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-W865ST');
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- AIQUA -->
+<script src="https://cdn.qgraph.io/dist/aiqua-wp.js"></script>
+<script>
+  AIQUA.init({
+    appId: 'c5cc7a67e287617d579b',
+    timeout: 5000
+  });
+</script>
+
+<script type="text/javascript">
+  !function(q,g,r,a,p,h,js) {
+    if(q.qg)return;
+    js = q.qg = function() {
+      js.callmethod ? js.callmethod.call(js, arguments) : js.queue.push(arguments);
+    };
+    js.queue = [];
+    p=g.createElement(r);p.async=!0;p.src=a;h=g.getElementsByTagName(r)[0];
+    h.parentNode.insertBefore(p,h);
+  } (window,document,'script','https://cdn.qgr.ph/qgraph.c5cc7a67e287617d579b.js');
+</script>
+<!-- AIQUA -->
+<title></title>
+
+<link rel="icon" href="//s2.blanja.com/static/public/images/favicon.png" type="image/x-icon" />
+<link rel="shortcut icon" href="//s2.blanja.com/static/public/images/favicon.png" type="image/x-icon" />
+
+
+<meta name="yandex-verification" content="b3da6825b8c745b6" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="stylesheet" type="text/css" media="screen" href="//s2.blanja.com/static/public/prime/css/??bl-icon.css,reset.css,global.css,common.css,headerv2.css,footerv2.css,popup-login.css?0f0b9262d542b60abd9f6bd2380d762d" />
+<link rel="stylesheet" type="text/css" media="screen" href="//s2.blanja.com/static/??kp/js/bundle.css,public/prime/vendor/css/perfect-scrollbar.css?0f0b9262d542b60abd9f6bd2380d762d" />
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" media="screen" href="//s2.blanja.com/static/public/newdesign/css/ie.css?0f0b9262d542b60abd9f6bd2380d762d" />
+<link rel="stylesheet" type="text/css" media="screen" href="//s2.blanja.com/static/public/prime/css/ie.css?0f0b9262d542b60abd9f6bd2380d762d" />
+<![endif]-->
+
+
+    <style type="text/css" media="screen, projection">
+    @import url(//s2.blanja.com/static/public/components/zenbox/zenbox.css);
+  </style>
+
+	<!-- Start Alexa Certify Javascript -->
+	<script type="text/javascript">
+	_atrk_opts = { atrk_acct:"VyO2n1aMp410N8", domain:"blanja.com",dynamic: true};
+	(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+	</script>
+	<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=VyO2n1aMp410N8" style="display:none" height="1" width="1" alt="" /></noscript>
+	<!-- End Alexa Certify Javascript -->
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+	<noscript>
+		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-W865ST" height="0" width="0" style="display:none; visibility:hidden;"></iframe>
+	</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header id="headerv2" class="headerv2 brd-box">
+																		
+															<div class="headerv2-bottom">
+		<div class="headerv2-bottom__wrap headerv2-container clearfix ie">
+			<div class="headerv2-logo clearfix">
+				<a href="//www.blanja.com" class="headerv2-logo__blanja">
+					<img width="auto" height="auto" src="//s2.blanja.com/static/public/prime/img/common/logo@1x.png" alt="Blanja.com Logo" title="Online Shop Aman, Murah, Terpercaya">
+				</a>
+			</div>
+			<div id="sticky-menu" class="headerv2-sticky__menu">
+				<div class="sticky-menu__icon">
+					<i class="icon bl-list"></i>Kategori
+				</div>
+				<div class="shop-category">
+	<div class="shop-category-wrap">
+		<ul class="main-category"></ul>
+		<div id="sub-category1" class="sub-category sub-category1" style="display:none">
+        	<div class="sub-category-title"><strong id="sub-category-title1"></strong></div>
+        	<ul></ul>
+        </div>
+        <div id="sub-category2" class="sub-category sub-category2" style="display:none">
+        	<div class="sub-category-title"><strong id="sub-category-title2"></strong></div>
+        	<ul></ul>
+        </div>
+        <div id="sub-category3" class="sub-category sub-category3" style="display:none">
+        	<div class="sub-category-title"><strong id="sub-category-title3"></strong></div>
+        	<ul></ul>
+        </div>
+        <div id="sub-category4" class="sub-category sub-category4" style="display:none">
+        	<div class="sub-category-title"><strong id="sub-category-title4"></strong></div>
+        	<ul></ul>
+        </div>
+	</div>
+</div>			</div>
+			<div class="headerv2-left">
+				<div class="headerv2-search clearfix">
+					<form action="//item.blanja.com/items/search" class="headerv2-search-form header-search-form search-form" name="itemSearchForm" id="itemSearchForm"  method="post" onsubmit="return validateInput()">
+						<div class="headerv2-search__icon"><i class="icon bl-search"></i></div>
+						<input type="text" name="keyWords" placeholder="Mau Blanja apa hari ini?" accesskey="s" id="itemSearchKeyWords" autocomplete="off"
+						>
+						<div class="headerv2-search__select search-cat-box">
+		                    <select class="headerv2-search__select-option search-cat" id="searchCat" name="sc" title="Select a category for search"  searched="-1"  ">
+		                       <option value="-1">Kategori</option>
+		                    </select>
+	                        <i class="bl-chevron-down"></i>
+		                </div>
+						<span class="headerv2-search__btn btn-search">
+							<button type="submit" id="itemSearchBtn">Cari</button>
+						</span>
+			            <div class="recent-keywords"></div>
+			            <div class="suggest-keywords"></div>
+					</form>
+				</div>
+			</div>
+			<div class="headerv2-mid">
+				<div class="headerv2-pay clearfix">
+					<div class="pay-tooltip">
+						<div class="bl-tooltip">
+							<i class="bl-tooltip-info">i</i>
+							<div class="bl-tooltip-text bottom">
+								Kini TCASH berubah menjadi LinkAja. Nikmati kemudahan layanan LinkAja hanya dengan sekali aktivasi
+							</div>
+						</div>
+					</div>
+					<a class="pay-link-container" href="https://member.blanja.com/linkaja/">
+						<div class="pay-image">
+							<img src="//s2.blanja.com/static/public/images/linkaja/logo_LinkAja@2x.png" title="LinkAja Logo" alt="LinkAja">
+						</div>
+						<div class ="pay-amount">
+							<img class="img-linkajaamount"/>
+						</div>
+					</a>
+				</div>
+			</div>
+			<div class="headerv2-right clearfix">
+									<div class="headerv2-support__menu headerv2-support__account headerv2-support__account2">
+						<div class="headerv2-support__account-help help-container">
+							<a href="javascript:void(0);" class="headerv2-support__menu-link clearfix">
+								<div class="headerv2-support__menu-icon2">
+									<img src="//s2.blanja.com/static/public/prime/img/header/icon/ic-more@2x.png">
+								</div>
+							</a>
+							<ul class="dropdown2">
+								
+<li class="tourguide-support rectangle-6">
+    <a id="zenbox" class="header-live-support" href="javascript:void(0)">Live Support</a>
+</li>
+<li class="tourguide-sellercenterblog rectangle-6">
+    <a href="https://sellercenter.blanja.com">Seller Center</a>
+</li>
+<li class="rectangle-6">
+    <a href="//www.blanja.com/help/faq-0-0">Bantuan</a>
+</li>							</ul>
+						</div>
+					</div>
+								<div class="headerv2-support">
+					<div class="headerv2-support__menu headerv2-support__account">
+						<div class="headerv2-support__account-login account-container">
+							<a href="javascript:void(0);" class="headerv2-support__menu-link clearfix click-login" id="popLogin">
+								<div class="headerv2-support__menu-icon">
+									<img src="//s2.blanja.com/static/public/prime/img/header/icon/user@2x.png">
+								</div>
+								<span class="conBubble on-head"><span tag="unreadCount"></span></span>
+								<span class="headerv2-support__menu-label account-nickname nick">Masuk</span>
+								<input type="hidden" class="account-nickid"/>
+							</a>
+							<ul class="dropdown">
+								<li class="dropdown-info-blanjapay" style="display:none"><a href="https://member.blanja.com/blanjapay/">
+	<p class="dropdown-info-blanjapay-desc">Blanja Pay</p>
+	<p class="dropdown-info-blanjapay-amount blanjapay-amount dropdown-blanjapay">Rp <i tag="blanjapay"></i></p>
+</a></li>
+<li class="dropdown-info-balance"><a href="https://member.blanja.com/balanceAndWithdraw">
+	<p class="dropdown-info-balance-desc">Dompet Blanja</p>
+	<p class="dropdown-info-balance-amount">Rp <i tag="dompetBlanja"></i></p>
+</a></li>
+<li class="dropdown-info-cashback"><a href="https://member.blanja.com/cashback/index">
+	<p class="dropdown-info-cashback-desc">Cashback</p>
+	<p class="dropdown-info-cashback-amount">Rp <i tag="cashback"></i></p>
+</a></li>
+<li class="dropdown-info-tcash">
+	<a href="https://member.blanja.com/linkaja/">
+		<p class="dropdown-info-tcash-desc">LinkAja</p>
+		<div class ="tcashAmount">
+				<img class="img-tcashamount" style="max-height:17px" />
+		</div>	
+		<p class="dropdown-info-tcash-amount"></p>
+	</a>
+</li>
+<li class="header-shopnwin">
+	<a href="https://member.blanja.com/shopnwinpoints">
+
+		<p><i class="shopnwin-icon"></i> <span id="snw-totalkoin" class="fColor-red fWeight-bold">0</span> Koin Blanja </p>
+	</a>
+</li>
+<li><a href="https://member.blanja.com/member/memberInfo.html">Informasi Akun</a></li>
+<li><a href="https://member.blanja.com/trades/orderList.html">Blanjaan Saya</a></li>
+<li><a href="https://member.blanja.com/billing/index">Tagihan Saya</a></li>
+<li><a href="https://member.blanja.com/member/myFavorite">Favorit</a></li>
+<li><a href="https://member.blanja.com/message/messageList.html?type=1">
+	Kotak Masuk	<span tag="unreadCount"></span>
+	</a></li>
+<li><a href="https://member.blanja.com/feedback/indexOfFeedBacksOfBuyer">
+	Ulasan	</a></li>
+<li class="sidebar-menu-list-ebay"><a href="http://ebay.blanja.com/?dir=myebay" target="_blank">My eBay</a></li>
+<li><a href="https://member.blanja.com/member/logout">Keluar</a></li>							</ul>
+						</div>
+						<div class="headerv2-support__account-register">
+							<div class="account-register__divider"></div>
+					    	<a href="https://member.blanja.com/member/toRegister">
+					    		<span>Daftar</span>
+							</a>
+						</div>
+					</div>
+					<div class="headerv2-support__menu headerv2-support__cart">
+						<a class="headerv2-support__menu-link  my-cart user-cart clearfix" href="//trade.blanja.com/shoppingcart">
+							<div class="headerv2-support__menu-icon">
+								<img src="//s2.blanja.com/static/public/prime/img/header/icon/troli@2x.png">
+								<span class="headerv2-support__cart-total num miniCartSum">0</span>
+							</div>
+							<span class="headerv2-support__menu-label">Troli</span>
+						</a>
+						<!-- Mini Cart -->
+						<div class="my-cart-content miniCart mini-cart-layout"></div>
+					</div>
+					<div class="headerv2-support__menu headerv2-support__sellercenter">
+						<div class="headerv2-support__sellercenter-wrap">
+							<div class="headerv2-support__menu-icon">
+								<img src="//s2.blanja.com/static/public/prime/img/header/icon/store@2x.png">
+							</div>
+							<a class="headerv2-support__menu-link" href="//seller.blanja.com">
+								<span class="headerv2-support__menu-label">Toko Saya</span>
+							</a>
+						</div>						
+					</div>
+																																													
+														</div>
+			</div>
+		</div>
+	</div>
+	<div class="headerv2-overlay" style="display:none;"></div>
+</header>
+<div class="headerv2-padding"></div>
+	
+	<section id="formPopupLogin" class="form-popup-login brd-box"></section>
+
+	<!--header_end-->
+	<section id="floating-menu" >
+		<div class="floating-recent">
+			<div id="recent-btn" title="Recent view">
+				<i class="bl-time"></i>
+			</div>
+			<div class="go-top">
+				<i class="bl-chevron-up"></i>
+				<span>Top</span>
+			</div>
+		</div>
+		<div class="item-history">
+		    <div class="item-history-title clearfix">
+		        <span class="mt5 fLeft">My Views</span><strong id="totalViews"></strong>
+		    </div>
+		    <div class="item-history-content">
+		        <ul id="views" class="mb10">
+		        </ul>
+		        <div class="conts mb10 mt10">
+		            <a class="prev"><img src="//s2.blanja.com/static/public/prime/img/common/left_arrow.png"></a>
+		            <a class="next"><img src="//s2.blanja.com/static/public/prime/img/common/left_arrow.png"></a>
+		        </div>
+		    </div>
+		</div>
+	</section>
+	
+	<script id="miniCart-template" type="text/x-handlebars-template">
+	<div class="headerv2-support__cart-wrap">
+		<ul class="headerv2-support__cart-box">
+			{{#skus}}
+			{{#ifStatus this}}
+			{{/ifStatus}}
+			{{/skus}}
+		</ul>	
+	</div>
+	<div class="mycart-bottom clearfix">
+		<div class="mycart-bottom__price">
+			<p>Total : <span id="mycart-bottom__price"></span></p>
+		</div>
+		<a class="more" href="//trade.blanja.com/shoppingcart">
+			<input type="button" class="viewMyCart" value="Lihat Troli" />
+		</a>
+	</div>
+	</div>
+	</script>
+	<script id="miniCartLine-template" type="text/x-handlebars-template">
+		<li class="item" cid="{{skus.id}}" item="{{skus.itemTitle}}" skuid="{{skus.skuId}}" itemid="{{skus.itemId}}" shopid="{{skus.shopId}}" cartid="{{skus.id}}" subtotal="{{skus.subTotal}}" prop="{{skus.properties}}">
+			<a href="{{itemUrl}}/item/{{skus.pdpUrl}}" class="clearfix">
+        		<div class="img-border mr10 fLeft">
+        			<img src="{{skus.skuImageUrl}}" class="image-contain-fit"/>
+        		</div>
+        		<div class="product-detail fLeft lHeight-24">
+            		<div class="name truncate">{{skus.itemTitle}}</div>
+					<div class="product-detail__desc">
+            			<div class="product-detail__desc-price fWeight-bold">Rp&nbsp;{{skus.price}}</div>
+						<div class="product-detail__desc-qtty">x {{skus.quantity}}</div>
+					</div>
+        		</div>
+			</a>
+			<div class="mycart-delete">
+				<div class="bl-close fSize-16 fColor-softblack"></div>
+			</div>
+		</li>
+	</li>
+	</script>
+	
+<div class="search-header-overlay"></div>
+<div style="display:none">
+	<ul class="keysearch-head">
+		<li class="recent-keysearch">
+			<span>Recents Search</span>
+		</li>
+	</ul>
+	<li class="keysearch-child">
+		<a href="javascript:"></a>
+	</li>
+</div>
+
+<div style="display:none">
+	<ul class="suggest-head">
+	</ul>
+	<li class="suggest-child">
+		<a href="javascript:"></a>
+	</li>
+	<div class='suggest-child-img-prod'>
+		<img src="">
+	</div>
+	<div class='suggest-child-detail-prod'>
+		<a href="javascript:"></a>
+		<span></span>
+	</div>
+</div>
+
+<!--content_begin-->
+<div class="container">
+<!--content-right_begin-->
+<!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>❤ Dapatkan Promo Kode Voucher Belanja 2019 | BLANJA.com</title>
+<meta name="description" content="Ayo gunakan Kode Voucher Promosi BLANJA disini, dapatkan potongan harga spesialnya! Periode promonya terbatas lho. ✅ | BLANJA.com">
+<meta property="og:title" content="❤ Dapatkan Promo Kode Voucher Belanja 2019 | BLANJA.com"/>
+<meta property="og:description" content="Ayo gunakan Kode Voucher Promosi BLANJA disini, dapatkan potongan harga spesialnya! Periode promonya terbatas lho. ✅ | BLANJA.com"/>
+<meta property="og:image" content="https://s.blanja.com/picspace/-1/-1/600.300_d183385f0cb74818af59adcf8a07e95a.jpg">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.blanja.com/kp/voucher-promosi">
+<link rel="alternate" media="handheld" href="https://m.blanja.com/kp/voucher-promosi">
+<!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+<script type="text/javascript">
+<!--
+  if (screen.width <= 800) {
+    window.location = "//m.blanja.com/kp/voucher-promosi";
+  }
+//-->
+</script>
+
+<link rel="stylesheet" href="https://s2.blanja.com/static/waoj/bootstrap.min.css"></link>
+
+<style>
+
+/*************** SWIPPER DEFAULT ***************/
+.swiper-container{margin-left:auto;margin-right:auto;position:relative;overflow:hidden;z-index:1}.swiper-container-no-flexbox .swiper-slide{float:left}.swiper-container-vertical>.swiper-wrapper{-webkit-box-orient:vertical;-moz-box-orient:vertical;-ms-flex-direction:column;-webkit-flex-direction:column;flex-direction:column}.swiper-wrapper{position:relative;width:100%;height:100%;z-index:1;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-transition-property:-webkit-transform;-moz-transition-property:-moz-transform;-o-transition-property:-o-transform;-ms-transition-property:-ms-transform;transition-property:transform;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}.swiper-container-android .swiper-slide,.swiper-wrapper{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-o-transform:translate(0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}.swiper-container-multirow>.swiper-wrapper{-webkit-box-lines:multiple;-moz-box-lines:multiple;-ms-flex-wrap:wrap;-webkit-flex-wrap:wrap;flex-wrap:wrap}.swiper-container-free-mode>.swiper-wrapper{-webkit-transition-timing-function:ease-out;-moz-transition-timing-function:ease-out;-ms-transition-timing-function:ease-out;-o-transition-timing-function:ease-out;transition-timing-function:ease-out;margin:0 auto}.swiper-slide{-webkit-flex-shrink:0;-ms-flex:0 0 auto;flex-shrink:0;width:100%;height:100%;position:relative}.swiper-container-autoheight,.swiper-container-autoheight .swiper-slide{height:auto}.swiper-container-autoheight .swiper-wrapper{-webkit-box-align:start;-ms-flex-align:start;-webkit-align-items:flex-start;align-items:flex-start;-webkit-transition-property:-webkit-transform,height;-moz-transition-property:-moz-transform;-o-transition-property:-o-transform;-ms-transition-property:-ms-transform;transition-property:transform,height}.swiper-container .swiper-notification{position:absolute;left:0;top:0;pointer-events:none;opacity:0;z-index:-1000}.swiper-wp8-horizontal{-ms-touch-action:pan-y;touch-action:pan-y}.swiper-wp8-vertical{-ms-touch-action:pan-x;touch-action:pan-x}.swiper-button-next,.swiper-button-prev{position:absolute;top:50%;width:27px;height:44px;margin-top:-22px;z-index:10;cursor:pointer;-moz-background-size:27px 44px;-webkit-background-size:27px 44px;background-size:27px 44px;background-position:center;background-repeat:no-repeat}.swiper-button-next.swiper-button-disabled,.swiper-button-prev.swiper-button-disabled{opacity:.35;cursor:auto;pointer-events:none}.swiper-button-prev,.swiper-container-rtl .swiper-button-next{background-image:url("data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTYuMC4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjMycHgiIGhlaWdodD0iMzJweCIgdmlld0JveD0iMCAwIDMwNiAzMDYiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMwNiAzMDY7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGc+Cgk8ZyBpZD0iY2hldnJvbi1sZWZ0Ij4KCQk8cG9seWdvbiBwb2ludHM9IjI0Ny4zNSwzNS43IDIxMS42NSwwIDU4LjY1LDE1MyAyMTEuNjUsMzA2IDI0Ny4zNSwyNzAuMyAxMzAuMDUsMTUzICAgIiBmaWxsPSIjMDAwMDAwIi8+Cgk8L2c+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPC9zdmc+Cg==");left:10px;right:auto}.swiper-button-prev.swiper-button-black,.swiper-container-rtl .swiper-button-next.swiper-button-black{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'%23000000'%2F%3E%3C%2Fsvg%3E")}.swiper-button-prev.swiper-button-white,.swiper-container-rtl .swiper-button-next.swiper-button-white{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'%23ffffff'%2F%3E%3C%2Fsvg%3E")}.swiper-button-next,.swiper-container-rtl .swiper-button-prev{background-image:url("data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTYuMC4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjMycHgiIGhlaWdodD0iMzJweCIgdmlld0JveD0iMCAwIDMwNiAzMDYiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMwNiAzMDY7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGc+Cgk8ZyBpZD0iY2hldnJvbi1yaWdodCI+CgkJPHBvbHlnb24gcG9pbnRzPSI5NC4zNSwwIDU4LjY1LDM1LjcgMTc1Ljk1LDE1MyA1OC42NSwyNzAuMyA5NC4zNSwzMDYgMjQ3LjM1LDE1MyAgICIgZmlsbD0iIzAwMDAwMCIvPgoJPC9nPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+CjxnPgo8L2c+Cjwvc3ZnPgo=")}.swiper-pagination{position:absolute;text-align:center;-webkit-transition:.3s;-moz-transition:.3s;-o-transition:.3s;transition:.3s;-webkit-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);-o-transform:translate3d(0,0,0);transform:translate3d(0,0,0);z-index:10}.swiper-pagination.swiper-pagination-hidden{opacity:0}.swiper-container-horizontal>.swiper-pagination-bullets,.swiper-pagination-custom,.swiper-pagination-fraction{bottom:10px;left:0;width:100%}.swiper-pagination-bullet{width:8px;height:8px;display:inline-block;border-radius:100%;background:#000;opacity:.2}button.swiper-pagination-bullet{border:none;margin:0;padding:0;box-shadow:none;-moz-appearance:none;-ms-appearance:none;-webkit-appearance:none;appearance:none}.swiper-pagination-clickable .swiper-pagination-bullet{cursor:pointer}.swiper-pagination-white .swiper-pagination-bullet{background:#fff}.swiper-pagination-bullet-active{opacity:1;background:#007aff}.swiper-pagination-white .swiper-pagination-bullet-active{background:#fff}.swiper-pagination-black .swiper-pagination-bullet-active{background:#000}.swiper-container-vertical>.swiper-pagination-bullets{right:10px;top:50%;-webkit-transform:translate3d(0,-50%,0);-moz-transform:translate3d(0,-50%,0);-o-transform:translate(0,-50%);-ms-transform:translate3d(0,-50%,0);transform:translate3d(0,-50%,0)}.swiper-container-vertical>.swiper-pagination-bullets .swiper-pagination-bullet{margin:5px 0;display:block}.swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet{margin:0 5px}.swiper-pagination-progress{background:rgba(0,0,0,.25);position:absolute}.swiper-pagination-progress .swiper-pagination-progressbar{background:#007aff;position:absolute;left:0;top:0;width:100%;height:100%;-webkit-transform:scale(0);-ms-transform:scale(0);-o-transform:scale(0);transform:scale(0);-webkit-transform-origin:left top;-moz-transform-origin:left top;-ms-transform-origin:left top;-o-transform-origin:left top;transform-origin:left top}.swiper-container-rtl .swiper-pagination-progress .swiper-pagination-progressbar{-webkit-transform-origin:right top;-moz-transform-origin:right top;-ms-transform-origin:right top;-o-transform-origin:right top;transform-origin:right top}.swiper-container-horizontal>.swiper-pagination-progress{width:100%;height:4px;left:0;top:0}.swiper-container-vertical>.swiper-pagination-progress{width:4px;height:100%;left:0;top:0}.swiper-pagination-progress.swiper-pagination-white{background:rgba(255,255,255,.5)}.swiper-pagination-progress.swiper-pagination-white .swiper-pagination-progressbar{background:#fff}.swiper-pagination-progress.swiper-pagination-black .swiper-pagination-progressbar{background:#000}.swiper-container-3d{-webkit-perspective:1200px;-moz-perspective:1200px;-o-perspective:1200px;perspective:1200px}.swiper-container-3d .swiper-cube-shadow,.swiper-container-3d .swiper-slide,.swiper-container-3d .swiper-slide-shadow-bottom,.swiper-container-3d .swiper-slide-shadow-left,.swiper-container-3d .swiper-slide-shadow-right,.swiper-container-3d .swiper-slide-shadow-top,.swiper-container-3d .swiper-wrapper{-webkit-transform-style:preserve-3d;-moz-transform-style:preserve-3d;-ms-transform-style:preserve-3d;transform-style:preserve-3d}.swiper-container-3d .swiper-slide-shadow-bottom,.swiper-container-3d .swiper-slide-shadow-left,.swiper-container-3d .swiper-slide-shadow-right,.swiper-container-3d .swiper-slide-shadow-top{position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:none;z-index:10}.swiper-container-3d .swiper-slide-shadow-left{background-image:-webkit-gradient(linear,left top,right top,from(rgba(0,0,0,.5)),to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(right,rgba(0,0,0,.5),rgba(0,0,0,0));background-image:-moz-linear-gradient(right,rgba(0,0,0,.5),rgba(0,0,0,0));background-image:-o-linear-gradient(right,rgba(0,0,0,.5),rgba(0,0,0,0));background-image:linear-gradient(to left,rgba(0,0,0,.5),rgba(0,0,0,0))}.swiper-container-3d .swiper-slide-shadow-right{background-image:-webkit-gradient(linear,right top,left top,from(rgba(0,0,0,.5)),to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(left,rgba(0,0,0,.5),rgba(0,0,0,0));background-image:-moz-linear-gradient(left,rgba(0,0,0,.5),rgba(0,0,0,0));background-image:-o-linear-gradient(left,rgba(0,0,0,.5),rgba(0,0,0,0));background-image:linear-gradient(to right,rgba(0,0,0,.5),rgba(0,0,0,0))}.swiper-container-3d .swiper-slide-shadow-top{background-image:-webkit-gradient(linear,left top,left bottom,from(rgba(0,0,0,.5)),to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(bottom,rgba(0,0,0,.5),rgba(0,0,0,0));background-image:-moz-linear-gradient(bottom,rgba(0,0,0,.5),rgba(0,0,0,0));background-image:-o-linear-gradient(bottom,rgba(0,0,0,.5),rgba(0,0,0,0));background-image:linear-gradient(to top,rgba(0,0,0,.5),rgba(0,0,0,0))}.swiper-container-3d .swiper-slide-shadow-bottom{background-image:-webkit-gradient(linear,left bottom,left top,from(rgba(0,0,0,.5)),to(rgba(0,0,0,0)));background-image:-webkit-linear-gradient(top,rgba(0,0,0,.5),rgba(0,0,0,0));background-image:-moz-linear-gradient(top,rgba(0,0,0,.5),rgba(0,0,0,0));background-image:-o-linear-gradient(top,rgba(0,0,0,.5),rgba(0,0,0,0));background-image:linear-gradient(to bottom,rgba(0,0,0,.5),rgba(0,0,0,0))}.swiper-container-coverflow .swiper-wrapper,.swiper-container-flip .swiper-wrapper{-ms-perspective:1200px}.swiper-container-cube,.swiper-container-flip{overflow:visible}.swiper-container-cube .swiper-slide,.swiper-container-flip .swiper-slide{pointer-events:none;-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;backface-visibility:hidden;z-index:1}.swiper-container-cube .swiper-slide .swiper-slide,.swiper-container-flip .swiper-slide .swiper-slide{pointer-events:none}.swiper-container-cube .swiper-slide-active,.swiper-container-cube .swiper-slide-active .swiper-slide-active,.swiper-container-flip .swiper-slide-active,.swiper-container-flip .swiper-slide-active .swiper-slide-active{pointer-events:auto}.swiper-container-cube .swiper-slide-shadow-bottom,.swiper-container-cube .swiper-slide-shadow-left,.swiper-container-cube .swiper-slide-shadow-right,.swiper-container-cube .swiper-slide-shadow-top,.swiper-container-flip .swiper-slide-shadow-bottom,.swiper-container-flip .swiper-slide-shadow-left,.swiper-container-flip .swiper-slide-shadow-right,.swiper-container-flip .swiper-slide-shadow-top{z-index:0;-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;backface-visibility:hidden}.swiper-container-cube .swiper-slide{visibility:hidden;-webkit-transform-origin:0 0;-moz-transform-origin:0 0;-ms-transform-origin:0 0;transform-origin:0 0;width:100%;height:100%}.swiper-container-cube.swiper-container-rtl .swiper-slide{-webkit-transform-origin:100% 0;-moz-transform-origin:100% 0;-ms-transform-origin:100% 0;transform-origin:100% 0}.swiper-container-cube .swiper-slide-active,.swiper-container-cube .swiper-slide-next,.swiper-container-cube .swiper-slide-next+.swiper-slide,.swiper-container-cube .swiper-slide-prev{pointer-events:auto;visibility:visible}.swiper-container-cube .swiper-cube-shadow{position:absolute;left:0;bottom:0;width:100%;height:100%;background:#000;opacity:.6;-webkit-filter:blur(50px);filter:blur(50px);z-index:0}.swiper-container-fade.swiper-container-free-mode .swiper-slide{-webkit-transition-timing-function:ease-out;-moz-transition-timing-function:ease-out;-ms-transition-timing-function:ease-out;-o-transition-timing-function:ease-out;transition-timing-function:ease-out}.swiper-container-fade .swiper-slide{pointer-events:none;-webkit-transition-property:opacity;-moz-transition-property:opacity;-o-transition-property:opacity;transition-property:opacity}.swiper-container-fade .swiper-slide .swiper-slide{pointer-events:none}.swiper-container-fade .swiper-slide-active,.swiper-container-fade .swiper-slide-active .swiper-slide-active{pointer-events:auto}.swiper-zoom-container{width:100%;height:100%;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-pack:center;-moz-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-box-align:center;-moz-box-align:center;-ms-flex-align:center;-webkit-align-items:center;align-items:center;text-align:center}.swiper-zoom-container>canvas,.swiper-zoom-container>img,.swiper-zoom-container>svg{max-width:100%;max-height:100%;object-fit:contain}.swiper-scrollbar{border-radius:10px;position:relative;-ms-touch-action:none;background:rgba(0,0,0,.1)}.swiper-container-horizontal>.swiper-scrollbar{position:absolute;left:1%;bottom:3px;z-index:50;height:5px;width:98%}.swiper-container-vertical>.swiper-scrollbar{position:absolute;right:3px;top:1%;z-index:50;width:5px;height:98%}.swiper-scrollbar-drag{height:100%;width:100%;position:relative;background:rgba(0,0,0,.5);border-radius:10px;left:0;top:0}.swiper-scrollbar-cursor-drag{cursor:move}.swiper-lazy-preloader{width:42px;height:42px;position:absolute;left:50%;top:50%;margin-left:-21px;margin-top:-21px;z-index:10;-webkit-transform-origin:50%;-moz-transform-origin:50%;transform-origin:50%;-webkit-animation:swiper-preloader-spin 1s steps(12,end) infinite;-moz-animation:swiper-preloader-spin 1s steps(12,end) infinite;animation:swiper-preloader-spin 1s steps(12,end) infinite}.swiper-lazy-preloader:after{display:block;content:"";width:100%;height:100%;background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox%3D'0%200%20120%20120'%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20xmlns%3Axlink%3D'http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink'%3E%3Cdefs%3E%3Cline%20id%3D'l'%20x1%3D'60'%20x2%3D'60'%20y1%3D'7'%20y2%3D'27'%20stroke%3D'%236c6c6c'%20stroke-width%3D'11'%20stroke-linecap%3D'round'%2F%3E%3C%2Fdefs%3E%3Cg%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(30%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(60%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(90%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(120%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(150%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.37'%20transform%3D'rotate(180%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.46'%20transform%3D'rotate(210%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.56'%20transform%3D'rotate(240%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.66'%20transform%3D'rotate(270%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.75'%20transform%3D'rotate(300%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.85'%20transform%3D'rotate(330%2060%2C60)'%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E");background-position:50%;-webkit-background-size:100%;background-size:100%;background-repeat:no-repeat}.swiper-lazy-preloader-white:after{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox%3D'0%200%20120%20120'%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20xmlns%3Axlink%3D'http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink'%3E%3Cdefs%3E%3Cline%20id%3D'l'%20x1%3D'60'%20x2%3D'60'%20y1%3D'7'%20y2%3D'27'%20stroke%3D'%23222'%20stroke-width%3D'11'%20stroke-linecap%3D'round'%2F%3E%3C%2Fdefs%3E%3Cg%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(30%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(60%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(90%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(120%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.27'%20transform%3D'rotate(150%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.37'%20transform%3D'rotate(180%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.46'%20transform%3D'rotate(210%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.56'%20transform%3D'rotate(240%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.66'%20transform%3D'rotate(270%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.75'%20transform%3D'rotate(300%2060%2C60)'%2F%3E%3Cuse%20xlink%3Ahref%3D'%23l'%20opacity%3D'.85'%20transform%3D'rotate(330%2060%2C60)'%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E")}@-webkit-keyframes swiper-preloader-spin{100%{-webkit-transform:rotate(360deg)}}@keyframes swiper-preloader-spin{100%{transform:rotate(360deg)}}
+
+
+/*************** OVERWRITE ***************/
+
+.swiper-container{
+	min-width: 161px;
+	margin: 0 auto;
+	padding-top: 5px;
+	position: relative;
+	overflow: hidden;
+	z-index: 1;
+	width: 99%;
+}
+
+.swiper-slide{
+	background: #fff;
+}
+
+
+.swiper-button-prev{
+    background: url(https://s.blanja.com/picspace/-1/-1/100.100_0beb11093ca34fa299ffc6c42b9636ea.png) center center no-repeat !important;
+    background-size: auto;
+    background-size: 110% !important;
+    width: 50px;
+    height: 50px;
+}
+
+.swiper-button-next{
+    background: url(https://s.blanja.com/picspace/-1/-1/100.100_64428f94bedb404795360ccde2b76c30.png) center center no-repeat !important;
+    background-size: auto;
+    background-size: 110% !important;
+    width: 50px;
+    height: 50px;
+}
+
+/*************** END: OVERWRITE ***************/
+
+
+
+
+/****************** END: TAB ********************/
+
+.tabNavbar{
+	padding: 20px 0 10px;
+	box-shadow: 0 3px 5px 0 rgba(0,0,0,0.15);
+}
+
+.main-nav{
+	text-align:center;
+	background-color:#ffffff;
+	border-radius: 8px;
+	padding: 0;
+}
+
+.main-nav .nav-pills{
+	position: relative;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-align-content: center;
+	align-content: center;
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	overflow: hidden;
+}
+
+.main-nav .nav-pills > li{
+	float:none;
+	width:100%;
+	display:inline-block;
+	background-color: #fff;
+	color: #999;
+	border-bottom:5px solid transparent;
+	border-radius: 8px 8px 0 0;
+}
+
+.main-nav .nav-pills > li.active, .main-nav .nav-pills > li:hover{
+	color: #e2211d;
+	font-weight:bold;
+	border-bottom:5px solid #e2211d;
+}
+
+.main-nav .nav-pills > li.active > a{
+	color:#fff;
+} 
+
+.main-nav .nav-pills > li > a{
+	font-size:16px;
+	padding: 15px 20px;
+	display: block;
+	position: relative;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+	line-height:125%;
+	color: #999;
+}
+
+.main-nav .nav-pills > li.active > a, 
+.main-nav .nav > li:hover > a{
+	background-color:transparent;
+	color:#e2211d;
+	border-right: 1px solid #e2e2e2;
+}
+
+/****************** END: TAB ********************/
+
+
+section.default{
+	background-color:#f5f5f5;
+}
+
+
+.title h3 {
+    border-left: 5px solid #e2211d;
+    margin-left: 4px;
+    font-size: 17px;
+    letter-spacing: 0.7px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    padding: 5px 0 5px 10px;
+}
+
+.col-md-15 {
+    width: 20%;
+    float: left;
+	height: 340px;
+	margin-bottom: 10px;
+	position: relative;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+.no-padding{
+	padding:0;
+}
+
+.box, .box-swipper {
+    margin: 5px 0 0;
+    display: list-item;
+    list-style-type: none !important;
+    text-align: left !important;
+    background-color: #fff;
+    border-radius: 4px;
+    height: 340px;
+    overflow: hidden;
+}
+
+.box:hover, .box:hover a{
+	cursor: pointer;
+	margin-top: -3px;
+	position: relative;
+	box-shadow: 0 3px 7px 0 rgba(0,0,0,0.20);
+	text-decoration:none;
+}
+
+.box-swipper:hover, .box-swipper:hover a{
+	cursor: pointer;
+	margin-top: -3px;
+	position: relative;
+	box-shadow: none;
+	text-decoration:none;
+}
+
+.swiper-slide:hover, .swiper-slide:hover a{
+	cursor: pointer;
+	margin-top: -3px;
+	position: relative;
+	box-shadow: 0 3px 7px 0 rgba(0,0,0,0.20);
+	text-decoration:none;
+}
+
+.swiper-slide:hover box:hover{
+	box-shadow: 0;
+}
+
+.product-shortcode.style-1.big .preview, .swiper-slide .preview {
+    padding: 0 0 10px;
+    height: 230px;
+    position: relative;
+	display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-align-content: center;
+  align-content: center;
+}
+
+.product-shortcode.style-1 .preview img, .swiper-slide .preview img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.product-shortcode.style-1.big .title, .swiper-slide .title {
+    padding-bottom: 0;
+    height: 35px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.title h2, .swiper-slide .title h2 {
+    font-size: 13px !important;
+    color: #999;
+    font-family: 'Lato', sans-serif;
+    margin: 0 auto 0 !important;
+    line-height: 130%;
+    padding: 0 10px;
+}
+
+.product-price, .swiper-slide .product-price {
+    padding: 0 10px;
+}
+
+.coret {
+    padding-left: 0;
+    font-size: 12px;
+    text-align: left;
+    color: #aeaeae;
+    line-height: 14px;
+    text-decoration: line-through;
+    top: -3px;
+    position: relative;
+}
+
+.product-price-sale, .swiper-slide .product-price-sale {
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: .2px;
+    text-align: left;
+    color: #333;
+    float: left;
+}
+
+.product-price-discount, .swiper-slide .product-price-discount {
+    float: left;
+    height: 22px;
+    margin-left: 12px;
+    padding: 0 8px;
+    color: #e3211d;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 20px;
+    border: 1px solid #e3211d;
+        border-left-color: rgb(227, 33, 29);
+        border-left-style: solid;
+        border-left-width: 1px;
+    border-left-color: rgb(227, 33, 29);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-left-color: rgb(227, 33, 29);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-left: none;
+    position: relative;
+    margin-top: -3px;
+}
+
+.product-price-discount::before, .swiper-slide .product-price-discount::before {
+    content: '';
+    border-top: 11px solid transparent;
+    border-right: 5px solid #e3211d;
+    border-bottom: 11px solid transparent;
+    position: absolute;
+    left: -5px;
+    top: -1px;
+}
+
+.product-price-discount::after, .swiper-slide .product-price-discount::after {
+    content: '';
+    border-top: 11px solid transparent;
+    border-right: 5px solid #FFF;
+    border-bottom: 11px solid transparent;
+    position: absolute;
+    left: -4px;
+    top: -1px;
+}
+
+.star-rating, .swiper-slide .star-rating {
+    display: inline-block;
+    background-image: url('https://s2.blanja.com/static/public/prime/img/common/ic_rate_blankstar@3x.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 15px !important;
+    width: 74px;
+    margin-top: 3px;
+    float: left;
+    font-size: 0;
+    line-height: 0;
+}
+
+.star-rating span, .swiper-slide .star-rating span {
+    display: inline-block;
+    height: inherit;
+    max-width: 100%;
+    background-image: url('https://s2.blanja.com/static/public/prime/img/common/ic_rate_fullstar@3x.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0;
+    line-height: 0;
+}
+
+.sisaProduk, .swiper-slide .sisaProduk {
+    font-size: 9px;
+    color: #999;
+    font-family: 'Lato', sans-serif;
+    float: right;
+    position: relative;
+    top: 5px;
+}
+
+.limitedtime {
+    position: absolute;
+	bottom: 5px;
+	right: 0;
+	color: #fff;
+	margin: 0 auto;
+	padding: 3px 7px;
+	color: #fff;
+	font-size: 11px;
+	font-weight: normal;
+	line-height: 100%;
+	border-radius: 5px 0 0 0;
+	letter-spacing: -0.2px;
+	
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff8800+0,e2211d+100 */
+	background: #ff8800; /* Old browsers */
+	background: -moz-linear-gradient(-45deg, #ff8800 0%, #e2211d 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg, #ff8800 0%,#e2211d 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg, #ff8800 0%,#e2211d 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff8800', endColorstr='#e2211d',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.tab-content {
+	border: none !important;
+}
+
+
+
+
+/*Kode Voucher slider 5 start here*/
+
+
+.kodevoucher{
+  background: #ffffff;
+  color: #666;
+  text-align: center;
+  padding: 10px 18px; 
+  border-radius: 5px;
+  box-shadow: 0 1px 6px 1px rgba(51, 51, 51, 0.1);
+  width:48.6% !important;
+  margin-right: 2.5%;
+}
+ 
+
+
+.kodevoucher:last-child{
+  margin-right: 0 !important;
+    float: right;
+    margin-left: 0 !important;
+}
+
+@media only screen and (max-width: 768px) {
+  .kodevoucher{
+    width:30% !important;
+    margin-right:36px;
+  }
+}
+
+.kodevoucher input{
+  color: #666666; text-align:center; font-weight:bold; font-size:1.2em; border:1px #dddddd dashed; background:#f8f8f8; width:50%; padding: 7px 0;
+}
+
+
+.kodevoucher h3 {
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    font-size: 16pt; 
+  
+}
+
+.kodevoucher button{
+  font-size: 1vw;
+    color: white;
+    background: #e3211d;
+    padding: 11px 30px 27px;
+    border: none;
+    margin-bottom: 20px;
+    height: 36px;
+}
+
+
+.kodevoucher .sklink{
+  width: 100%;
+  height: 20px; 
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: center;
+  color: #e3211d;
+  text-decoration:underline;
+      cursor: pointer;
+}
+
+.kodevoucher .new{
+  font-size:10px; background:#d92c27; color:white; padding:4px; margin-bottom:3px; border-radius:4px; top:-12px; letter-spacing:1px;
+}
+
+.padding-zero{
+  padding-right:0 !important;
+}
+
+.padding-zero.modal-open {
+    overflow: auto;
+ }
+
+ .dbs-but{
+      width: 100%;
+    background: white;
+    padding: 13px;
+    border-radius: 6px;
+    box-shadow: 0 1px 6px 1px rgba(51, 51, 51, 0.1);
+ }
+
+
+/*Kode Voucher slider 5 end here*/
+
+
+.swiper-no-hov{
+	background: whitesmoke;
+}
+.swiper-no-hov:hover{
+	margin-top: 0px !important;
+	box-shadow: none;
+}
+
+a, a:visited {
+	text-decoration: none;
+}
+
+
+#hilite {
+    background: #e3211d;
+    color: #fff;
+    text-align: center;
+    padding: 34px 18px;
+    border-radius: 5px;
+    box-shadow: 0 1px 6px 1px rgba(51, 51, 51, 0.1);
+    /* width: 48.6% !important; */
+    margin-right: 2.5%;
+    width: 100% !important;
+    margin-bottom: 2%;
+}
+ 
+#hilite:last-child{
+  margin-right: 0 !important;
+    float: right;
+    margin-left: 0 !important;
+}
+
+@media only screen and (max-width: 768px) {
+  #hilite{
+    width:30% !important;
+    margin-right:36px;
+  }
+}
+
+#hilite input{
+  color: #666666; text-align:center; font-weight:bold; font-size:1.5vw; border:1px #dddddd dashed; background:#f8f8f8; width:60%; padding: 7px 0;
+}
+
+
+#hilite h3 {
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    font-size: 16pt;
+    font-family: 'FS Hackney Web', 'Lato',Arial;
+    margin-top: 5px;
+    margin-bottom: 0px !important;
+}
+
+#hilite button{
+  font-size: 0.8vw;
+    color: white;
+    background: #000;
+    padding: 11px 30px 5px;
+    border: none;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+ 
+#hilite .sklink{ 
+  height: 0px;
+  font-family: 'FS Hackney Web', 'Lato',Arial;
+  font-size: 13px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: right;
+  color: #fff; 
+}
+
+.kiri-70{
+      width: 70%;
+    float: left;
+    margin-top: 5px;
+}
+.kiri-30{
+    width: 30%;
+    float: right;
+    margin-top: 17px;
+    padding-left: 25px;
+    margin-right: 0;
+}
+
+.padding-zero{
+  padding-right:0 !important;
+}
+
+.padding-zero.modal-open {
+    overflow: auto;
+ }
+ 
+ .tab-pane{
+	padding:20px 0;
+ }
+
+
+/*Kode Voucher slider 5 start here*/
+
+.kodevoucher.single {
+    background: #ffffff;
+    color: #666;
+    text-align: center;
+    padding: 20px 18px;
+    border-radius: 5px;
+    box-shadow: 0 1px 6px 1px rgba(51, 51, 51, 0.1);
+    /* width: 48.6% !important; */
+    margin-right: 2.5%;
+    width: 100% !important;
+    margin-bottom: 2%;
+}
+ 
+.kodevoucher:last-child{
+  margin-right: 0 !important;
+    float: right;
+    margin-left: 0 !important;
+}
+
+@media only screen and (max-width: 768px) {
+  .kodevoucher{
+    width:30% !important;
+    margin-right:36px;
+  }
+}
+
+.kodevoucher.single input{
+  color: #666666; text-align:center; font-weight:bold; font-size:1.5vw; border:1px #dddddd dashed; background:#f8f8f8; width:60%; padding: 7px 0;
+}
+
+
+.kodevoucher.single h3 {
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    font-size: 16pt; 
+    margin-top: 5px;
+    margin-bottom: 0px !important;
+}
+
+.kodevoucher.single button{
+     font-size: 0.9em;
+    color: white;
+    background: #e3211d;
+    height: 39px;
+    border: none;
+    margin-bottom: 0px;
+    font-weight: bold;
+    top: -1px;
+    position: relative;
+    width: 120px;
+}
+ 
+.kodevoucher.single .sklink{ 
+  height: 0px; 
+  font-size: 13px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: right;
+  color: #e3211d; 
+  cursor: pointer;
+}
+.kiri-70{
+      width: 70%;
+    float: left;
+    margin-top: 5px;
+}
+.kiri-30{
+    width: 30%;
+    float: right;
+    margin-top: 17px;
+    padding-left: 25px;
+}
+
+.padding-zero{
+  padding-right:0 !important;
+}
+
+.padding-zero.modal-open {
+    overflow: auto;
+ }
+
+ .dbs-but{
+      width: 100%;
+    background: white;
+    padding: 13px;
+    border-radius: 6px;
+    box-shadow: 0 1px 6px 1px rgba(51, 51, 51, 0.1);
+ }
+
+
+.sklink-slim{
+  margin: 0 auto;
+    width: 1140px;
+    background: white;
+    padding: 7px;
+    margin-top: 10px;
+    border-radius: 3px;
+    border: 1px solid #e8e8e8;
+        color: #636363;
+    font-weight: bold;
+    box-shadow: 0 1px 6px 1px rgba(51, 51, 51, 0.1);
+    text-align: center;
+}
+
+
+/*Kode Voucher slider 5 end here*/
+
+
+</style>
+
+<body>
+</div>
+<section class="default" >
+	<div class="container">
+		<div class="row">
+		    <img class="header_img" src="https://s.blanja.com/picspace/-1/-1/1200.250_1f1989cba1394a2a8becd8858046bb43.jpg" width="100%">
+		</div>
+	</div>
+</section>
+
+
+<section style="padding:20px 0;background:#f5f5f5; " >
+
+<div class="container" style="    padding: 0;">
+<div class="col-md-12 kodevoucher single one" style="margin-top: 0px; margin-bottom: -20px; background: #e3211d;    padding: 30px 30px 30px 0;">
+        <div class="col-md-6">
+            <h3 style="color: #fff;">Dapatkan Cashback 10% Hingga Rp 50.000 </h3>
+            <p style="color: #fff;font-size:16px;margin-bottom: 0px;">Tanpa Minimum Transaksi</p>
+        </div>
+
+        <div class="col-md-6">
+            <div class="kiri-70"> <input type="text" value="BLANJAGOPAY" id="kode-gojek" readonly=""><button style="    background: #000;" data-clipboard-target="#kode-gojek">Salin</button> </div>
+            <a class="kiri-30" data-toggle="modal" data-target="#pop-gojek"><p class="sklink" style="color: #fff;">Syarat & Ketentuan</p> </a>
+        </div>
+      </div>
+</div>
+
+</section>
+
+
+<!-- NAV BAR --> 
+<section class="default tabNavbar">
+  <nav role="navigation" class="container main-nav" id="main-nav">
+    <ul id="main-nav-list" class="nav nav-pills"> 
+      
+    </ul>
+  </nav>
+</section>
+
+
+<!-- PRODUCTS -->
+<section class="default" style="padding:0px 0 0px; ">
+	<div class="container clearfix" id="main-nav">
+		<div class="row gutter-10">
+		  <div id="myTabContent" class="tab-content">
+			<div role="tabpanel" class="tab-pane fade" id="apps" aria-labelledby="apps-tab">
+				
+				<div class="apps">
+					<div class="col-xs-4 kodevoucher one" style="margin-top: 0%;   width: 31.3% !important;  margin-right: 3% !important;"> 
+						<h3>Voucher Diskon App</h3>
+						<p style="color: #666666;font-size:16px;">Diskon Hingga Rp 500.000</p>
+						<input type="text" value="DISKONAPP" id="kode-7" readonly /><button data-clipboard-target="#kode-7">Salin</button>
+						<a data-toggle="modal" data-target="#pop-7"><p class="sklink">Syarat & Ketentuan</p> </a>
+					</div>
+	 
+					<div class="col-xs-4 kodevoucher two" style="margin-top: 0%; width: 31.3% !important; margin-right: 3% !important;" >
+						<h3>Voucher General APP</h3>
+						<p style="color: #666666;font-size:16px;">Cashback Hingga Rp 500.000</p>
+						<input type="text" value="CASHBACKAPP7" id="kode-8"  readonly /><button data-clipboard-target="#kode-8">Salin</button>
+						<a data-toggle="modal" data-target="#pop-8"><p class="sklink">Syarat & Ketentuan</p> </a>
+					</div>
+
+					<div class="col-xs-4 kodevoucher two" style="margin-top: 0%;  width: 31.3% !important;   margin-right: 0% !important;    float: left;" >
+						<h3>Voucher Non Elektronik APP</h3>
+						<p style="color: #666666;font-size:16px;">Cashback Hingga Rp 150.000</p>
+						<input type="text" value="CASHBACKAPP15" id="kode-9"  readonly /><button data-clipboard-target="#kode-9">Salin</button>
+						<a data-toggle="modal" data-target="#pop-9"><p class="sklink">Syarat & Ketentuan</p> </a> 
+					</div>
+				
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			
+			<div role="tabpanel" class="tab-pane fade" id="reg" aria-labelledby="reg-tab">
+				<div class="reg">
+					<!-- <div class="col-md-12 kodevoucher one" id="hilite" style="margin-top: 0px;    margin-bottom: 0;">
+					  <div class="col-md-6">
+						  <h3>Kode Voucher General</h3>
+						  <p style="color: #fff;font-size:16px;margin-bottom: 0px;">Potongan Langsung 5% Hingga Rp 250.000</p>
+					  </div>
+
+					  <div class="col-md-6">
+						  <div class="kiri-70"> <input type="text" value="PUASBLANJA" id="kode-6" readonly=""><button data-clipboard-target="#kode-6">Salin</button> </div>
+						  <a class="kiri-30" data-toggle="modal" data-target="#pop-6"><p class="sklink">Syarat & Ketentuan</p> </a>
+					  </div>
+					</div> -->
+					
+					<div class="col-xs-4 kodevoucher one" style="margin-top: 0%; width: 31.3%; width: 31.3%  !important; margin-right: 3% !important;" >
+						<h3>Kode Voucher General</h3>
+						<p style="color: #666666;font-size:16px;">Potongan Langsung 5% Hingga Rp 250.000</p>
+						<input type="text" value="PUASBLANJA" id="kode-6"  readonly /><button data-clipboard-target="#kode-6">Salin</button>
+						<a data-toggle="modal" data-target="#pop-6"><p class="sklink">Syarat & Ketentuan</p> </a> 
+					</div>
+
+					
+					<div class="col-xs-4 kodevoucher two" style="margin-top: 0%; width: 31.3%; width: 31.3%  !important; margin-right: 3% !important;" >
+						<h3>Voucher General</h3>
+						<p style="color: #666666;font-size:16px;">Cashback Hingga Rp 500.000</p>
+						<input type="text" value="SUPERCASHBACK" id="kode-1"  readonly /><button data-clipboard-target="#kode-1">Salin</button>
+						<a data-toggle="modal" data-target="#pop-1"><p class="sklink">Syarat & Ketentuan</p> </a> 
+					</div>
+
+					<div class="col-xs-4 kodevoucher two" style="margin-top: 0%;    margin-right: 0% !important; width: 31.3%  !important; "> 
+						<h3>Voucher Non Elektronik</h3>
+						<p style="color: #666666;font-size:16px;">Cashback Hingga Rp 100.000</p>
+						<input type="text" value="CASHBACK100" id="kode-3" readonly /><button data-clipboard-target="#kode-3">Salin</button>
+						<a data-toggle="modal" data-target="#pop-3"><p class="sklink">Syarat & Ketentuan</p> </a>
+					</div> 
+				
+					<div class="col-xs-4 kodevoucher one" style="margin-top: 2%;   width: 31.3% !important;  margin-right: 3% !important;"> 
+						<h3>Voucher Home Living</h3>
+						<p style="color: #666666;font-size:16px;">Potongan Langsung Rp 50.000</p>
+						<input type="text" value="DISKON50" id="kode-5" readonly /><button data-clipboard-target="#kode-5">Salin</button>
+						<a data-toggle="modal" data-target="#pop-5"><p class="sklink">Syarat & Ketentuan</p> </a>
+					</div>
+	 
+					<div class="col-xs-4 kodevoucher two" style="margin-top: 2%; width: 31.3% !important; margin-right: 3% !important;" >
+						<h3>Voucher Digital Produk</h3>
+						<p style="color: #666666;font-size:16px;">Cashback Hingga Rp 50.000</p>
+						<input type="text" value="CASHBACK50" id="kode-2"  readonly /><button data-clipboard-target="#kode-2">Salin</button>
+						<a data-toggle="modal" data-target="#pop-2"><p class="sklink">Syarat & Ketentuan</p> </a>
+					</div>
+
+					<div class="col-xs-4 kodevoucher two" style="margin-top: 2%;  width: 31.3% !important;   margin-right: 0% !important;    float: left;" >
+						<h3>Voucher Pulsa & Paket Data</h3>
+						<p style="color: #666666;font-size:16px;">Cashback Hingga Rp 50.000</p>
+						<input type="text" value="PASTICASHBACK" id="kode-4"  readonly /><button data-clipboard-target="#kode-4">Salin</button>
+						<a data-toggle="modal" data-target="#pop-4"><p class="sklink">Syarat & Ketentuan</p> </a> 
+					</div>
+				
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		  </div>
+		</div>
+	</div>
+</section>
+<section style="background:#f5f5f5;    padding-top: 10px;    padding-bottom: 0px;"> 
+    <div class="container">
+      <div class="row gutter-15">
+
+<div class="row gutter-15" style="    padding: 0px 7px 10px;">
+        <div class="col-xs-6 no-padding" class=""> 
+          <h3 style="font-weight:700;font-size: 18px;    padding-left: 10px;">Promo Pilihan</h3>
+        </div>
+        <div class="col-xs-6 no-padding" style="text-align:right !important;padding-right: 10px;">
+          <a href="https://blanja.com/kp/parade-promo" style="color:#d92c27">
+            <h3 style="  font-size:10pt;"> <strong>Lihat Selengkapnya</strong></h3>
+          </a>
+        </div>
+ </div>
+<div class="row no-gutter">     
+        <div class="clearfix"></div>
+        <div class="col-xs-12 no-padding promo-slide" style="margin-bottom:10px !important; max-width:1200px">
+      
+        </div>
+
+
+      </div>
+</div>
+</div>
+  
+</section>
+<section style="background:#f5f5f5">
+   
+   <div class="container" style="padding: 0px 0px 10px;padding-bottom: 30px;"> 
+      <div class="col-xs-12" style="padding-bottom:14px;    padding: 0px;"><a href="https://www.blanja.com/kp/cicilan-0-persen">
+           <img src="https://s.blanja.com/picspace/-1/-1/1195.150_392ae92a4b8c4c39b6e3ca4683015308.jpg" class="img-responsive"></a>
+       </div>
+   </div> 
+
+</section>
+
+<!--TNC Start Here-->
+
+
+
+
+<div class="modal fade bd-example-modal-lg" tabindex="-1" style="margin-top:3%;" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="pop-gojek">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content" style="background:#fff !important; border-radius:0 !important ">
+      <div class="modal-header" style="margin-bottom:10px; background:#fff; text-align:center; margin-top:-10px">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true" style=" font-size:16pt; position: relative;
+    top: 20px; right: 15px;">X</span> </button>
+        <h2 style="text-align: left; padding-left: 10px;    font-size: 20px; font-weight: bold;" >Syarat dan Ketentuan</h2>
+      </div>
+    <div class="modal-body" style="padding-bottom: 53px;    margin-top: -25px !important;;">  
+        <ul style="list-style:decimal; padding-left:20px;text-align:left;"><br />
+          	<li> Gunakan BLANJAGOPAY untuk mendapatkan Cashback 10% sampai dengan Rp 50.000 tanpa minimum transaksi </li>
+			<li> Berlaku untuk semua produk kecuali produk dengan Harga Istimewa, Pulsa, Emas dan Susu anak di bawah 1 tahun, voucher dan produk digital lainnya </li>
+			<li> Berlaku khusus untuk transaksi menggunakan metode pembayaran GOPAY di BLANJA.com </li>
+			<li> Promo berlaku mulai 9 - 15 Desember 2019 </li>
+			<li> Maksimum jumlah penggunaan voucher untuk setiap buyer adalah 3 kali selama promo berlangsung </li>
+			<li> Khusus transaksi pada produk kategori Gadget & Elektronik maksimum kuantiti produk yang dapat dibeli adalah 1 kuantiti produk. </li>
+			<li> Cashback akan masuk ke saldo Cashback BLANJA.com paling lambat 1x24 Jam setelah transaksi Completed </li>
+			<li> Cashback yang didapat memiliki masa aktif dengan tenggang waktu tertentu </li>
+			<li> Berlaku untuk pembelian via PC Web, dan Mobile Web </li>
+			<li> Berlaku untuk 100 pembeli pertama </li>
+			<li> Promo tidak diperuntukan bagi reseller/trader </li>
+			<li> Promo tidak dapat digabungan dengan promo lainnya </li>
+			<li> Voucher yang hangus tidak dapat diganti </li>
+			<li> BLANJA.com berhak melakukan perubahan syarat dan ketentuan tanpa pemberitahuan terlebih dahulu </li>
+			<li> BLANJA.com berhak melakukan hal-hal yang dianggap perlu tanpa pemberitahuan sebelumnya, hal-hal yang tidak sesuai dengan peraturan di BLANJA.com seperti melakukan kecurangan dalam penggunaan voucher, dan melanggar peraturan dari BLANJA.com, maka BLANJA.com berhak melakukan pembatalan transaksi, pembatalan voucher ataupun memblokir akun pengguna </li>
+			<li> Pembatalan transaksi atas pemakaian voucher BLANJA.com yang tidak memenuhi syarat dan ketentuan yang berlaku, maka BLANJA.com akan mengembalikan dana ke customer dengan potongan 3% per transaksi (untuk pembayaran dengan menggunakan kartu kredit/Kredivo) atau Rp 10.000 per transaksi (untuk pembayaran lainnya), dan tidak akan dilakukan penggantian voucher yang baru </li>
+                </ul> 
+        </div>
+    </div>
+            
+            </div>
+    
+    </div>
+
+
+<div class="modal fade bd-example-modal-lg" tabindex="-1" style="margin-top:3%;" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="pop-1">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content" style="background:#fff !important; border-radius:0 !important ">
+      <div class="modal-header" style="margin-bottom:10px; background:#fff; text-align:center; margin-top:-10px">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true" style=" font-size:16pt; position: relative;
+    top: 20px; right: 15px;">X</span> </button>
+        <h2 style="text-align: left; padding-left: 10px;    font-size: 20px; font-weight: bold;" >Syarat dan Ketentuan</h2>
+      </div>
+    <div class="modal-body" style="padding-bottom: 53px;    margin-top: -25px !important;;">  
+               <ul style="list-style:decimal; padding-left:20px;"><br>
+          <li> Gunakan SUPERCASHBACK untuk mendapatkan Cashback 5% sampai dengan Rp 500.000 tanpa minimum transaksi </li>
+          <li> Berlaku untuk semua produk kecuali produk dengan Harga Istimewa, Pulsa & Paket Data, Emas (emas fisik maupun produk digital), Susu anak di bawah 1 tahun, voucher dan produk digital lainnya  </li>
+          <li> Promo berlaku mulai 9 - 15 Desember 2019  </li>
+          <li> Maksimum jumlah penggunaan voucher untuk setiap buyer adalah 1 kali selama promo berlangsung </li>
+          <li> Khusus transaksi pada produk kategori Gadget & Elektronik maksimum kuantiti produk yang dapat dibeli adalah 1 kuantiti produk. </li>
+          <li> Cashback akan masuk paling lambat 1x24 Jam setelah transaksi Completed </li>
+<li> Cashback yang didapat memiliki masa aktif dengan tenggang waktu tertentu </li>
+          <li> Berlaku untuk pembelian via PC Web, Mobile Web, dan Android App </li>
+          <li> Berlaku untuk 100 pembeli pertama </li>
+          <li> Promo tidak diperuntukan bagi reseller/trader </li>
+          <li> Promo tidak dapat digabungan dengan promo lainnya </li>
+          <li>Voucher yang hangus tidak dapat diganti</li>
+          <li>BLANJA.com berhak melakukan perubahan syarat dan ketentuan tanpa pemberitahuan terlebih dahulu</li>
+          <li>BLANJA.com berhak melakukan hal-hal yang dianggap perlu tanpa pemberitahuan sebelumnya, hal-hal yang tidak sesuai dengan peraturan di BLANJA.com seperti melakukan kecurangan dalam penggunaan voucher, dan melanggar peraturan dari BLANJA.com, maka BLANJA.com berhak melakukan pembatalan transaksi, pembatalan voucher ataupun memblokir akun pengguna</li>
+          <li>Pembatalan transaksi atas pemakaian voucher BLANJA.com yang tidak memenuhi syarat dan ketentuan yang berlaku, maka BLANJA.com akan mengembalikan dana ke customer dengan potongan 3% per transaksi (untuk pembayaran dengan menggunakan kartu kredit/Kredivo) atau Rp 10.000 per transaksi (untuk pembayaran lainnya), dan tidak akan dilakukan penggantian voucher yang baru</li>
+                </ul>
+        </div>
+    </div>
+            
+            </div>
+    
+    </div>
+
+
+<div class="modal fade bd-example-modal-lg" tabindex="-1" style="margin-top:3%;" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="pop-2">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content" style="background:#fff !important; border-radius:0 !important ">
+      <div class="modal-header" style="margin-bottom:10px; background:#fff; text-align:center; margin-top:-10px">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true" style=" font-size:16pt; position: relative;
+    top: 20px; right: 15px;">X</span> </button>
+        <h2 style="text-align: left; padding-left: 10px;    font-size: 20px; font-weight: bold;" >Syarat dan Ketentuan</h2>
+      </div>
+    <div class="modal-body" style="padding-bottom: 53px;    margin-top: -25px !important;;">  
+               <ul style="list-style:decimal; padding-left:20px;"><br />
+          <li> Gunakan CASHBACK50 untuk mendapatkan Cashback 5% sampai dengan Rp 50.000 tanpa minimum transaksi </li>
+          <li> Berlaku untuk pembelian Digital produk kecuali produk Pulsa & Paket Data dan produk Emas digital </li>
+          <li> Promo berlaku mulai  9 - 15 Desember 2019</li>
+          <li> Maksimum jumlah penggunaan voucher untuk setiap buyer adalah 1 kali selama promo berlangsung </li>
+          <li> Cashback akan masuk paling lambat 1x24 Jam setelah transaksi Completed </li>
+<li> Cashback yang didapat memiliki masa aktif dengan tenggang waktu tertentu </li>
+          <li> Berlaku untuk pembelian via PC Web, Mobile Web, dan Android App </li>
+          <li> Berlaku untuk 50 pembeli pertama </li>
+          <li> Promo tidak diperuntukan bagi reseller/trader </li>
+          <li> Promo tidak dapat digabungan dengan promo lainnya </li>
+          <li>Voucher yang hangus tidak dapat diganti</li>
+          <li>BLANJA.com berhak melakukan perubahan syarat dan ketentuan tanpa pemberitahuan terlebih dahulu</li>
+          <li>BLANJA.com berhak melakukan hal-hal yang dianggap perlu tanpa pemberitahuan sebelumnya, hal-hal yang tidak sesuai dengan peraturan di BLANJA.com seperti melakukan kecurangan dalam penggunaan voucher, dan melanggar peraturan dari BLANJA.com, maka BLANJA.com berhak melakukan pembatalan transaksi, pembatalan voucher ataupun memblokir akun pengguna</li>
+          <li>Pembatalan transaksi atas pemakaian voucher BLANJA.com yang tidak memenuhi syarat dan ketentuan yang berlaku, maka BLANJA.com akan mengembalikan dana ke customer dengan potongan 3% per transaksi (untuk pembayaran dengan menggunakan kartu kredit/Kredivo) atau Rp 10.000 per transaksi (untuk pembayaran lainnya), dan tidak akan dilakukan penggantian voucher yang baru</li>
+                </ul> 
+        </div>
+    </div>
+            
+            </div>
+    
+    </div>
+
+
+<div class="modal fade bd-example-modal-lg" tabindex="-1" style="margin-top:3%;" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="pop-3">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content" style="background:#fff !important; border-radius:0 !important ">
+      <div class="modal-header" style="margin-bottom:10px; background:#fff; text-align:center; margin-top:-10px">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true" style=" font-size:16pt; position: relative;
+    top: 20px; right: 15px;">X</span> </button>
+        <h2 style="text-align: left; padding-left: 10px;  font-size: 20px; font-weight: bold;" >Syarat dan Ketentuan</h2>
+      </div>
+      <div class="modal-body" style="padding-bottom: 53px;  margin-top: -25px !important;;"> 
+    <ul style="list-style:decimal; padding-left:20px;"><br />
+        <li> Gunakan CASHBACK100 untuk mendapatkan Cashback 10% sampai dengan Rp 100.000 tanpa minimum transaksi </li>
+          <li> Berlaku untuk pembelian semua produk kategori non-elektronik kecuali dengan Harga Istimewa, diapers/popok, susu formula, emas, pulsa dan voucher produk & digital </li>
+          <li> Promo berlaku mulai 9 - 15 Desember 2019</li>
+          <li> Maksimum jumlah penggunaan voucher untuk setiap buyer adalah 1 kali selama promo berlangsung </li>
+          <li> Cashback akan masuk paling lambat 1x24 Jam setelah transaksi Completed </li>
+<li> Cashback yang didapat memiliki masa aktif dengan tenggang waktu tertentu </li>
+          <li> Berlaku untuk pembelian via PC Web, Mobile Web, dan Android App </li>
+          <li> Berlaku untuk 50 pembeli pertama </li>
+          <li> Promo tidak diperuntukan bagi reseller/trader </li>
+          <li> Promo tidak dapat digabungan dengan promo lainnya </li>
+          <li>Voucher yang hangus tidak dapat diganti</li>
+          <li>BLANJA.com berhak melakukan perubahan syarat dan ketentuan tanpa pemberitahuan terlebih dahulu</li>
+          <li>BLANJA.com berhak melakukan hal-hal yang dianggap perlu tanpa pemberitahuan sebelumnya, hal-hal yang tidak sesuai dengan peraturan di BLANJA.com seperti melakukan kecurangan dalam penggunaan voucher, dan melanggar peraturan dari BLANJA.com, maka BLANJA.com berhak melakukan pembatalan transaksi, pembatalan voucher ataupun memblokir akun pengguna</li>
+          <li>Pembatalan transaksi atas pemakaian voucher BLANJA.com yang tidak memenuhi syarat dan ketentuan yang berlaku, maka BLANJA.com akan mengembalikan dana ke customer dengan potongan 3% per transaksi (untuk pembayaran dengan menggunakan kartu kredit/Kredivo) atau Rp 10.000 per transaksi (untuk pembayaran lainnya), dan tidak akan dilakukan penggantian voucher yang baru</li>
+      </ul> 
+  </div>
+    </div>
+            
+            </div>
+    
+    </div>
+
+
+<div class="modal fade bd-example-modal-lg" tabindex="-1" style="margin-top:3%;" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="pop-4">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content" style="background:#fff !important; border-radius:0 !important ">
+      <div class="modal-header" style="margin-bottom:10px; background:#fff; text-align:center; margin-top:-10px">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true" style=" font-size:16pt; position: relative;
+    top: 20px; right: 15px;">X</span> </button>
+        <h2 style="text-align: left; padding-left: 10px;  font-size: 20px; font-weight: bold;" >Syarat dan Ketentuan</h2>
+      </div>
+      <div class="modal-body" style="padding-bottom: 53px;  margin-top: -25px !important;;"> 
+    <ul style="list-style:decimal; padding-left:20px;"><br />
+        <li> Gunakan PASTICASHBACK untuk mendapatkan Cashback 10% sampai dengan Rp 50.000 untuk pembelian produk dengan minimum denom Rp 100.000 </li>
+<li> Berlaku untuk pembelian pulsa dan paket data semua jenis provider </li>
+<li> Promo berlaku mulai 9 - 15 Desember 2019</li>
+<li> Maksimum jumlah penggunaan voucher untuk setiap buyer adalah 1 kali selama promo berlangsung </li>
+<li> Cashback akan masuk paling lambat 1x24 Jam setelah transaksi Completed </li>
+<li> Cashback yang didapat memiliki masa aktif dengan tenggang waktu tertentu </li>
+<li> Berlaku untuk pembelian via PC Web, Mobile Web, dan Android App </li>
+<li> Berlaku untuk 100 pembeli pertama </li>
+<li> Promo tidak diperuntukan bagi reseller/trader </li>
+        <li> Promo tidak dapat digabungan dengan promo lainnya </li>
+        <li>Voucher yang hangus tidak dapat diganti</li>
+        <li>BLANJA.com berhak melakukan perubahan syarat dan ketentuan tanpa pemberitahuan terlebih dahulu</li>
+        <li>BLANJA.com berhak melakukan hal-hal yang dianggap perlu tanpa pemberitahuan sebelumnya, hal-hal yang tidak sesuai dengan peraturan di BLANJA.com seperti melakukan kecurangan dalam penggunaan voucher, dan melanggar peraturan dari BLANJA.com, maka BLANJA.com berhak melakukan pembatalan transaksi, pembatalan voucher ataupun memblokir akun pengguna</li>
+        <li>Pembatalan transaksi atas pemakaian voucher BLANJA.com yang tidak memenuhi syarat dan ketentuan yang berlaku, maka BLANJA.com akan mengembalikan dana ke customer dengan potongan 3% per transaksi (untuk pembayaran dengan menggunakan kartu kredit/Kredivo) atau Rp 10.000 per transaksi (untuk pembayaran lainnya), dan tidak akan dilakukan penggantian voucher yang baru</li>
+      </ul> 
+  </div>
+    </div>
+            
+            </div>
+    
+    </div>
+
+	
+<div class="modal fade bd-example-modal-lg" tabindex="-1" style="margin-top:3%;" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="pop-5">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content" style="background:#fff !important; border-radius:0 !important ">
+      <div class="modal-header" style="margin-bottom:10px; background:#fff; text-align:center; margin-top:-10px">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true" style=" font-size:16pt; position: relative;
+    top: 20px; right: 15px;">X</span> </button>
+        <h2 style="text-align: left; padding-left: 10px;  font-size: 20px; font-weight: bold;" >Syarat dan Ketentuan</h2>
+      </div>
+      <div class="modal-body" style="padding-bottom: 53px;  margin-top: -25px !important;;"> 
+    <ul style="list-style:decimal; padding-left:20px;"><br />
+        <li> Gunakan DISKON50 untuk mendapatkan Potongan Langsung 20% sampai dengan Rp 50.000 tanpa minimum transaksi </li>
+<li> Berlaku khusus untuk semua produk kategori Non Elektronik (kecuali produk kategori Toys, Books & Hobbies, kategori Ticket, Voucher & Gifts, produk dengan Harga Istimewa, produk & voucher digital, dan susu anak dibawah 1 tahun) </li>
+<li> Promo berlaku mulai 9 - 15 Desember 2019</li>
+<li> Maksimum jumlah penggunaan voucher untuk setiap buyer adalah 1 kali selama promo berlangsung </li>
+<li> Khusus transaksi pada produk kategori Gadget & Elektronik maksimum kuantiti produk yang dapat dibeli adalah 1 kuantiti produk. </li>
+<!--<li> Cashback akan masuk paling lambat 1x24 Jam setelah transaksi completed </li>
+<li> Cashback yang didapat memiliki masa aktif dengan tenggang waktu tertentu </li>-->
+<li> Berlaku untuk pembelian via PC Web, Mobile Web, dan Android App </li>
+<li> Berlaku untuk 100 pembeli pertama </li>
+<li> Promo tidak diperuntukan bagi reseller/trader </li>
+        <li> Promo tidak dapat digabungan dengan promo lainnya </li>
+        <li>Voucher yang hangus tidak dapat diganti</li>
+        <li>BLANJA.com berhak melakukan perubahan syarat dan ketentuan tanpa pemberitahuan terlebih dahulu</li>
+        <li>BLANJA.com berhak melakukan hal-hal yang dianggap perlu tanpa pemberitahuan sebelumnya, hal-hal yang tidak sesuai dengan peraturan di BLANJA.com seperti melakukan kecurangan dalam penggunaan voucher, dan melanggar peraturan dari BLANJA.com, maka BLANJA.com berhak melakukan pembatalan transaksi, pembatalan voucher ataupun memblokir akun pengguna</li>
+        <li>Pembatalan transaksi atas pemakaian voucher BLANJA.com yang tidak memenuhi syarat dan ketentuan yang berlaku, maka BLANJA.com akan mengembalikan dana ke customer dengan potongan 3% per transaksi (untuk pembayaran dengan menggunakan kartu kredit/Kredivo) atau Rp 10.000 per transaksi (untuk pembayaran lainnya), dan tidak akan dilakukan penggantian voucher yang baru</li>
+      </ul> 
+  </div>
+    </div>
+            
+            </div>
+    
+    </div>
+
+
+<div class="modal fade bd-example-modal-lg" tabindex="-1" style="margin-top:3%;" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="pop-6">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content" style="background:#fff !important; border-radius:0 !important ">
+      <div class="modal-header" style="margin-bottom:10px; background:#fff; text-align:center; margin-top:-10px">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true" style=" font-size:16pt; position: relative;
+    top: 20px; right: 15px;">X</span> </button>
+        <h2 style="text-align: left; padding-left: 10px;  font-size: 20px; font-weight: bold;" >Syarat dan Ketentuan</h2>
+      </div>
+      <div class="modal-body" style="padding-bottom: 53px;  margin-top: -25px !important;;"> 
+    <ul style="list-style:decimal; padding-left:20px;"><br />
+        <li> Gunakan PUASBLANJA untuk mendapatkan potongan langsung 5% hingga Rp 250.000 tanpa minimum transaksi </li>
+        <li> Berlaku untuk semua produk kecuali produk dengan Harga Istimewa, Pulsa & Paket Data, dan Emas (emas fisik maupun produk digital) </li>
+        <li> Berlaku untuk semua metode pembayaran kecuali pembayaran dengan menggunakan Kartu Kredit (Full Payment & Installment), Debit Online, dan Finpay Indomaret </li>
+        <li> Promo berlaku mulai 9 - 15 Desember 2019</li>
+        <li> Maksimum jumlah penggunaan voucher untuk setiap buyer adalah 1 kali selama promo berlangsung</li>
+        <li> Khusus transaksi pada produk kategori Gadget & Elektronik maksimum kuantiti produk yang dapat dibeli adalah 1 kuantiti produk. </li>
+        <li> Berlaku untuk pembelian via PC Web, Mobile Web, dan Android App </li>
+        <li> Berlaku untuk 200 transaksi pertama </li>
+        <li> Promo tidak diperuntukan bagi reseller/trader </li>
+        <li> Promo tidak dapat digabungan dengan promo lainnya </li>
+        <li>Voucher yang hangus tidak dapat diganti</li>
+        <li>BLANJA.com berhak membatalkan transaksi jika ditemukan adanya ketidakwajaran dan tidak sesuai dengan syarat & ketentuan yang berlaku di BLANJA.com</li>
+        <li>BLANJA.com berhak melakukan perubahan syarat dan ketentuan tanpa pemberitahuan terlebih dahulu</li>
+        <li>BLANJA.com berhak melakukan hal-hal yang dianggap perlu tanpa pemberitahuan sebelumnya, hal-hal yang tidak sesuai dengan peraturan di BLANJA.com seperti melakukan kecurangan dalam penggunaan voucher, dan melanggar peraturan dari BLANJA.com, maka BLANJA.com berhak melakukan pembatalan transaksi, pembatalan voucher ataupun memblokir akun pengguna</li>
+        <li>Pembatalan transaksi atas pemakaian voucher BLANJA.com yang tidak memenuhi syarat dan ketentuan yang berlaku, maka BLANJA.com akan mengembalikan dana ke customer dengan potongan 3% per transaksi (untuk pembayaran dengan menggunakan kartu kredit/Kredivo) atau Rp 10.000 per transaksi (untuk pembayaran lainnya), dan tidak akan dilakukan penggantian voucher yang baru</li>
+      </ul> 
+  </div>
+    </div>
+            
+            </div>
+    
+    </div>
+
+	
+<div class="modal fade bd-example-modal-lg" tabindex="-1" style="margin-top:3%;" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="pop-7">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content" style="background:#fff !important; border-radius:0 !important ">
+      <div class="modal-header" style="margin-bottom:10px; background:#fff; text-align:center; margin-top:-10px">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true" style=" font-size:16pt; position: relative;
+    top: 20px; right: 15px;">X</span> </button>
+        <h2 style="text-align: left; padding-left: 10px;  font-size: 20px; font-weight: bold;" >Syarat dan Ketentuan</h2>
+      </div>
+      <div class="modal-body" style="padding-bottom: 53px;  margin-top: -25px !important;;"> 
+    <ul style="list-style:decimal; padding-left:20px;"><br />
+		
+        <li> Gunakan DISKONAPP untuk mendapatkan potongan langsung 5% hingga Rp 500.000 tanpa minimum transaksi </li>
+<li>  Berlaku untuk semua produk kecuali produk dengan Harga Istimewa, Pulsa/Paket Data, dan Emas (emas fisik maupun produk digital) </li>
+<li> Berlaku untuk semua metode pembayaran kecuali pembayaran dengan menggunakan Kartu Kredit (Full Payment & Installment), Debit Online, dan Finpay Indomaret </li>
+<li> Promo berlaku mulai 9 - 15 Desember 2019</li>
+<li> Maksimum jumlah penggunaan voucher untuk setiap buyer adalah 3 kali selama promo berlangsung </li>
+<li> Khusus transaksi pada produk kategori Gadget & Elektronik maksimum kuantiti produk yang dapat dibeli adalah 1 kuantiti produk. </li>
+<li> Cashback yang didapat memiliki masa aktif dengan tenggang waktu tertentu </li>
+<li> Berlaku khusus untuk pembelian via Aplikasi BLANJA.com </li>
+<li> Berlaku untuk 100 pembeli pertama </li>
+<li> Promo tidak diperuntukan bagi reseller/trader </li>
+        <li> Promo tidak dapat digabungan dengan promo lainnya </li>
+        <li>Voucher yang hangus tidak dapat diganti</li>
+        <li>BLANJA.com berhak melakukan perubahan syarat dan ketentuan tanpa pemberitahuan terlebih dahulu</li>
+        <li>BLANJA.com berhak melakukan hal-hal yang dianggap perlu tanpa pemberitahuan sebelumnya, hal-hal yang tidak sesuai dengan peraturan di BLANJA.com seperti melakukan kecurangan dalam penggunaan voucher, dan melanggar peraturan dari BLANJA.com, maka BLANJA.com berhak melakukan pembatalan transaksi, pembatalan voucher ataupun memblokir akun pengguna</li>
+        <li>Pembatalan transaksi atas pemakaian voucher BLANJA.com yang tidak memenuhi syarat dan ketentuan yang berlaku, maka BLANJA.com akan mengembalikan dana ke customer dengan potongan 3% per transaksi (untuk pembayaran dengan menggunakan kartu kredit/Kredivo) atau Rp 10.000 per transaksi (untuk pembayaran lainnya), dan tidak akan dilakukan penggantian voucher yang baru</li>
+      </ul> 
+  </div>
+    </div>
+            
+            </div>
+    
+    </div>
+
+	
+<div class="modal fade bd-example-modal-lg" tabindex="-1" style="margin-top:3%;" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="pop-8">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content" style="background:#fff !important; border-radius:0 !important ">
+      <div class="modal-header" style="margin-bottom:10px; background:#fff; text-align:center; margin-top:-10px">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true" style=" font-size:16pt; position: relative;
+    top: 20px; right: 15px;">X</span> </button>
+        <h2 style="text-align: left; padding-left: 10px;  font-size: 20px; font-weight: bold;" >Syarat dan Ketentuan</h2>
+      </div>
+      <div class="modal-body" style="padding-bottom: 53px;  margin-top: -25px !important;;"> 
+    <ul style="list-style:decimal; padding-left:20px;"><br />
+        <li> Gunakan CASHBACKAPP7 untuk mendapatkan Cashback 7% sampai dengan Rp 500.000 tanpa minimum transaksi </li>
+<li> Berlaku untuk semua produk kecuali produk dengan Harga Istimewa, Pulsa, Emas (emas fisik maupun produk digital), Susu anak di bawah 1 tahun, dan voucher & produk digital lainnya </li>
+<li> Promo berlaku mulai 9 - 15 Desember 2019 </li>
+<li> Maksimum jumlah penggunaan voucher untuk setiap buyer adalah 7 kali selama promo berlangsung </li>
+<li> Khusus transaksi pada produk kategori Gadget & Elektronik maksimum kuantiti produk yang dapat dibeli adalah 1 kuantiti produk. </li>
+<li> Cashback akan masuk paling lambat 1x24 Jam setelah transaksi Completed </li>
+<li> Cashback yang didapat memiliki masa aktif dengan tenggang waktu tertentu </li>
+<li> Berlaku khusus untuk pembelian via Aplikasi BLANJA.com </li>
+<li> Berlaku untuk 100 pembeli pertama </li>
+<li> Promo tidak diperuntukan bagi reseller/trader </li>
+        <li> Promo tidak dapat digabungan dengan promo lainnya </li>
+        <li>Voucher yang hangus tidak dapat diganti</li>
+        <li>BLANJA.com berhak melakukan perubahan syarat dan ketentuan tanpa pemberitahuan terlebih dahulu</li>
+        <li>BLANJA.com berhak melakukan hal-hal yang dianggap perlu tanpa pemberitahuan sebelumnya, hal-hal yang tidak sesuai dengan peraturan di BLANJA.com seperti melakukan kecurangan dalam penggunaan voucher, dan melanggar peraturan dari BLANJA.com, maka BLANJA.com berhak melakukan pembatalan transaksi, pembatalan voucher ataupun memblokir akun pengguna</li>
+        <li>Pembatalan transaksi atas pemakaian voucher BLANJA.com yang tidak memenuhi syarat dan ketentuan yang berlaku, maka BLANJA.com akan mengembalikan dana ke customer dengan potongan 3% per transaksi (untuk pembayaran dengan menggunakan kartu kredit/Kredivo) atau Rp 10.000 per transaksi (untuk pembayaran lainnya), dan tidak akan dilakukan penggantian voucher yang baru</li>
+      </ul> 
+  </div>
+    </div>
+            
+            </div>
+    
+    </div>
+
+
+<div class="modal fade bd-example-modal-lg" tabindex="-1" style="margin-top:3%;" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="pop-9">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content" style="background:#fff !important; border-radius:0 !important ">
+      <div class="modal-header" style="margin-bottom:10px; background:#fff; text-align:center; margin-top:-10px">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true" style=" font-size:16pt; position: relative;
+    top: 20px; right: 15px;">X</span> </button>
+        <h2 style="text-align: left; padding-left: 10px;  font-size: 20px; font-weight: bold;" >Syarat dan Ketentuan</h2>
+      </div>
+      <div class="modal-body" style="padding-bottom: 53px;  margin-top: -25px !important;;"> 
+    <ul style="list-style:decimal; padding-left:20px;"><br />
+	
+        <li> Gunakan CASHBACKAPP15 untuk mendapatkan Cashback 15% sampai dengan Rp 150.000 tanpa minimum transaksi </li>
+        <li> Berlaku untuk pembelian semua produk kategori non-elektronik kecuali dengan Harga Istimewa, diapers/popok, susu formula, emas, pulsa dan voucher produk & digital </li>
+		<li> Promo berlaku mulai 9 - 15 Desember 2019</li>
+        <li> Maksimum jumlah penggunaan voucher untuk setiap buyer adalah 1 kali selama promo berlangsung </li>
+        
+        <li> Cashback akan masuk paling lambat 1x24 Jam setelah transaksi Completed
+</li>
+        <li> Cashback yang didapat memiliki masa aktif dengan tenggang waktu tertentu
+ </li>
+        <li> Berlaku khusus untuk pembelian via Aplikasi BLANJA.com</li>
+        <li> Berlaku untuk 100 transaksi pertama </li>
+        <li> Promo tidak diperuntukan bagi reseller/trader </li>
+        <li> Promo tidak dapat digabungan dengan promo lainnya </li>
+        <li>Voucher yang hangus tidak dapat diganti</li>
+        <li>BLANJA.com berhak membatalkan transaksi jika ditemukan adanya ketidakwajaran dan tidak sesuai dengan syarat & ketentuan yang berlaku di BLANJA.com</li>
+        <li>BLANJA.com berhak melakukan perubahan syarat dan ketentuan tanpa pemberitahuan terlebih dahulu</li>
+        <li>BLANJA.com berhak melakukan hal-hal yang dianggap perlu tanpa pemberitahuan sebelumnya, hal-hal yang tidak sesuai dengan peraturan di BLANJA.com seperti melakukan kecurangan dalam penggunaan voucher, dan melanggar peraturan dari BLANJA.com, maka BLANJA.com berhak melakukan pembatalan transaksi, pembatalan voucher ataupun memblokir akun pengguna</li>
+        <li>Pembatalan transaksi atas pemakaian voucher BLANJA.com yang tidak memenuhi syarat dan ketentuan yang berlaku, maka BLANJA.com akan mengembalikan dana ke customer dengan potongan 3% per transaksi (untuk pembayaran dengan menggunakan kartu kredit/Kredivo) atau Rp 10.000 per transaksi (untuk pembayaran lainnya), dan tidak akan dilakukan penggantian voucher yang baru</li>
+      </ul> 
+  </div>
+    </div>
+            
+            </div>
+    
+    </div>
+
+
+
+
+
+  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://s2.blanja.com/static/waoj/bootstrap.min.js"></script> 
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery-google-sheet-to-json@0.1.2/jquery-google-sheet-to-json.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js"></script>
+<script type="text/javascript" src="https://unpkg.com/swiper@5.0.1/js/swiper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js"></script>
+
+
+<script> 
+var SPREADSHEET_ID = '1af3WraPunBaqoqlr-qyWP6Wc9z66d3IxFf86FJJYRbw';
+var SPREADSHEET_VOUCHER = '1fhrVwDb5l7T7K8kfodD2Ev93IWxZlOO8LEvFkVR3w-w'
+var itemdIds = [];
+var ids = [];
+var arrIdx = 0;
+  //var now_time = new Date().getTime();
+
+  var tnc;
+  var tnc_list;
+  var voucher_num=0;
+  
+  var firstRequestItemIds = new Array();
+  var content_num = 0
+  var kategori_arr = [];
+
+/* LIST FUNCTIONS */
+var getUrlParameter = function getUrlParameter(sParam) {
+    var sPageURL = decodeURIComponent(window.location.search.substring(1)),        sURLVariables = sPageURL.split('&'),        sParameterName,        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+      sParameterName = sURLVariables[i].split('=');
+
+      if (sParameterName[0] === sParam) {
+        return sParameterName[1] === undefined ? true : sParameterName[1];
+      }
+    }
+};
+
+
+  
+var url_kategori = getUrlParameter('kategori');
+
+jQuery.fn.sortElements = (function () {
+
+    var sort = [].sort;
+
+    return function (comparator, getSortable) {
+
+        getSortable = getSortable || function () {
+            return this;
+        };
+
+        var placements = this.map(function () {
+
+            var sortElement = getSortable.call(this),
+                parentNode = sortElement.parentNode,
+
+                // Since the element itself will change position, we have
+                // to have some way of storing its original position in
+                // the DOM. The easiest way is to have a 'flag' node:
+                nextSibling = parentNode.insertBefore(
+                document.createTextNode(''),
+                sortElement.nextSibling);
+
+            return function () {
+
+                if (parentNode === this) {
+                    throw new Error(
+                        "You can't sort elements if any one is a descendant of another.");
+                }
+
+                // Insert before flag:
+                parentNode.insertBefore(this, nextSibling);
+                // Remove flag:
+                parentNode.removeChild(nextSibling);
+
+            };
+
+        });
+
+        return sort.call(this, comparator).each(function (i) {
+            placements[i].call(getSortable.call(this));
+        });
+
+    };
+
+})();
+
+
+
+  (function($) {    
+    $(document).ready(function() {
+
+
+    
+
+var url = "https://www.blanja.com/kp/itemCache"
+var itemString = itemdIds.toString();
+var kategori_arr = [];
+var content_num = -1;
+var view_prods = 10
+var prods_cat = []
+var swiper_prods =[]
+
+
+
+function countdownFun(el,number){
+
+  var countdownStr = "";
+  h = Math.floor(number / 60 / 60);
+    m = Math.floor((number - h * 60 * 60) / 60);
+    s = Math.floor((number - h * 60 * 60 - m) * 60);
+    d = parseInt(h/24);
+    h = h - (parseInt(h/24)*24);
+    h = h < 10?"0"+h:h;
+    m = m<10?"0"+m:m;
+    s = s<10?"0"+s:s;
+    number--;
+    if (number < 0)
+    {
+        d = "0";
+        h = "00";
+        m = "00";
+        s = "00";;
+    }
+    if(d > 1){
+      countdownStr += d+" hari " + h+" jam "+m+" menit ";
+    }else{
+      countdownStr += h+" jam "+m+" menit ";
+    }
+  if($(el))
+    $(el).html(countdownStr);
+  
+}
+
+function getdata(index,itemArr,cat,type){
+	$.ajax({
+		url:url,
+		method:'POST',
+		data :  "itemIds="+itemArr,
+		success:function(res){
+			var food1 = eval(res);
+			
+			if(type=="NORMAL" || type==undefined){
+					for(var i=0;i < food1.length;i++){
+						//console.log(food1[i].id)
+						//$(".nama_orang").append("<li>"+ damn[i].title +"</li>")
+						
+						$("."+cat).append('<div class="product-shortcode style-1 big col-md-15" data-tag="'+ cat +'" itemid="'+ food1[i].id +'" data-stock="'+ food1[i].qtyStatus +'"><a href="'+ food1[i].linkUrl +'">'+
+						'<div class="box">'+
+						  '<div class="preview">'+
+						  '<input type="hidden" class="kpItemId" value="'+ food1[i].id +'">'+
+						  '<img class="lazyload img-responsive" src="https://s2.blanja.com/static/public/images/loading.gif" data-original="https:'+ food1[i].image +'?w=230" data-real="'+ food1[i].image +'">'+
+						  '<span class="limitedtime" data-countdown="'+ food1[i].countdown +'"><span class="hours"></span>:<span class="minutes"></span>:<span class="seconds"></span></span>'+
+						  '</div>'+
+						  '<div class="title">'+
+						  '<h2>'+ food1[i].title +'</h2>'+
+						  '</div>'+
+						  '<div class="product-price">'+
+						  '<div class="coret">Rp '+ food1[i].price +'</div>'+
+						  '<span class="product-price-sale">Rp '+ food1[i].salePrice +'</span>'+
+						  '<span class="diskon product-price-discount">'+ food1[i].ribbon +'%</span>'+
+						  '<div style="clear:both;"></div><div class="star-rating"><span class="stars" data-rating="'+ food1[i].score +'" style="width:'+ food1[i].score*20 +'%;"></span></div>'+
+						  '<div class="sisaProduk">' + food1[i].quantity + ' produk tersisa</div><div style="clear:both;">'+
+						  '</div>'+
+						'</div>'+
+					'</a></div>');
+					
+					$(".all").append('<div class="product-shortcode style-1 big col-md-15" data-tag="'+ cat +'" itemid="'+ food1[i].id +'" data-stock="'+ food1[i].qtyStatus +'"><a href="'+ food1[i].linkUrl +'">'+
+						'<div class="box">'+
+						  '<div class="preview">'+
+						  '<input type="hidden" class="kpItemId" value="'+ food1[i].id +'">'+
+						  '<img class="lazyload img-responsive" src="https://s2.blanja.com/static/public/images/loading.gif" data-original="https:'+ food1[i].image +'?w=230" data-real="'+ food1[i].image +'">'+
+						  '<span class="limitedtime" data-countdown="'+ food1[i].countdown +'"><span class="hours"></span>:<span class="minutes"></span>:<span class="seconds"></span></span>'+
+						  '</div>'+
+						  '<div class="title">'+
+						  '<h2>'+ food1[i].title +'</h2>'+
+						  '</div>'+
+						  '<div class="product-price">'+
+						  '<div class="coret">Rp '+ food1[i].price +'</div>'+
+						  '<span class="product-price-sale">Rp '+ food1[i].salePrice +'</span>'+
+						  '<span class="diskon product-price-discount">'+ food1[i].ribbon +'%</span>'+
+						  '<div style="clear:both;"></div><div class="star-rating"><span class="stars" data-rating="'+ food1[i].score +'" style="width:'+ food1[i].score*20 +'%;"></span></div>'+
+						  '<div class="sisaProduk">' + food1[i].quantity + ' produk tersisa</div><div style="clear:both;">'+
+						  '</div>'+
+						'</div>'+
+					'</a></div>');
+					}
+				}else{
+					for(var i=0;i < food1.length;i++){					
+						$("."+cat).find(".swiper-wrapper").append('<div data-idx="'+ index +'" class="swiper-slide prod">'+
+						  '<div class="col-md-12 no-padding" data-tag="'+ cat +'" itemid="'+food1[i].id+'"><a href="'+ food1[i].linkUrl +'" data-stock="'+ food1[i].qtyStatus +'">'+
+							'<div class="box-swipper">'+
+							  '<div class="preview">'+
+							  '<input type="hidden" class="kpItemId" value="'+ food1[i].id +'">'+
+							  '<img class="swiper-lazy img-responsive" src="https://s2.blanja.com/static/public/images/loading.gif" data-src="https:'+ food1[i].image +'?w=230" data-original="https:'+ food1[i].image +'?w=230" data-real="'+ food1[i].image +'">'+
+							  '<span class="limitedtime" data-countdown="'+ food1[i].countdown +'"><span class="hours"></span>:<span class="minutes"></span>:<span class="seconds"></span></span>'+
+							  '</div>'+
+							  '<div class="title">'+
+							  '<h2>'+ food1[i].title +'</h2>'+
+							  '</div>'+
+							  '<div class="product-price">'+
+							  '<div class="coret">Rp '+ food1[i].price +'</div>'+
+							  '<span class="product-price-sale">Rp '+ food1[i].salePrice +'</span>'+
+							  '<span class="diskon product-price-discount">'+ food1[i].ribbon +'%</span>'+
+							  '<div style="clear:both;"></div><div class="star-rating"><span class="stars" data-rating="'+ food1[i].score +'" style="width:'+ food1[i].score*20 +'%;"></span></div>'+
+							  '<div class="sisaProduk">' + food1[i].quantity + ' produk tersisa</div><div style="clear:both;">'+
+							  '</div>'+
+							'</div>'+
+							'</a></div>'+
+						'</div>');					
+						//$.getScript('',function(){
+							swiper_prods[i] = new Swiper('.'+cat,{
+								slidesPerView:5,
+								loop:false,
+								navigation: {
+									nextEl: '.next-btn'+ index +'',
+									prevEl: '.prev-btn'+ index +'',
+								},
+								preloadImages:false,
+								spaceBetween:10,
+								lazy: true
+							})
+						//})
+					}
+				}
+			
+		},
+		error:function(err){
+			$(".nama_orang").html("error cuy")
+		},
+		complete:function(res){
+
+			$('.'+ cat ).find(".swiper-slide.prod").sortElements(function(a, b){
+				return parseInt(prods_cat[index].ids.indexOf($(a).find("div").attr('itemid'))) > parseInt(prods_cat[index].ids.indexOf($(b).find("div").attr('itemid'))) ? 1 : -1;
+			});
+			
+			
+			$('.'+ cat).find(".product-shortcode").sortElements(function(a, b){
+				return parseInt(prods_cat[index].ids.indexOf($(a).attr('itemid'))) > parseInt(prods_cat[index].ids.indexOf($(b).attr('itemid'))) ? 1 : -1;
+			});
+			
+			$(".product-shortcode, .swiper-slide.prod").each(function(){
+				var data_countdown = $(this).find(".limitedtime").data("countdown");
+				var this_countdown = $(this).find(".limitedtime")
+				var this_stock = $(this).data("stock")
+			
+				if($(this).find(".diskon").html()=="undefined%"){
+					$(this).find(".diskon").hide()
+				}
+				if($(this).find(".coret").html()=="Rp 0"){
+					$(this).find(".coret").css("opacity","0")
+				}
+				
+				if(this_stock == 0){
+					$(this).remove()
+				}
+				
+				if(!data_countdown){
+					$(this).find(".limitedtime").hide()
+				}else{
+					countdownFun(this_countdown,data_countdown)
+				}
+				
+				
+				var bintang = $(this).find('.stars').data('rating');
+				//console.log(bintang)
+				if(bintang < 0.1){
+					$(this).find('.stars').parent().css("display","none");
+					$(this).find('.sisaProduk').css("float","left");
+				}
+				
+				
+				
+				var this_img = $(this).find(".img-responsive")
+				var src_img = this_img.attr("data-original");
+				var real_img = this_img.attr("data-real");
+				
+				if (src_img.indexOf("tokopedia") !== -1) {
+					this_img.attr("data-original", ""+real_img);          
+					this_img.attr("src", ""+real_img); 
+				}
+				
+			});
+			
+			$('.img-responsive').lazyload({});
+		}
+	})
+}
+
+var tab_arr = [{ label:"Voucher Apps", kategori:"apps"}, {label:"Voucher Reguler", kategori:"reg"}]
+
+for(var i=0;i<tab_arr.length;i++){
+	var kategori = tab_arr[i].kategori;
+	var label = tab_arr[i].label;
+	$("#main-nav-list").append('<li class="tab-change"> <a href="#'+ kategori +'" id="'+ kategori +'-tab" role="'+ kategori +'" data-toggle="tab" aria-controls="'+ kategori +'" aria-expanded="false" data-category="'+ kategori +'">'+ label +'</a> </li>');
+	
+	
+	
+	$(".tab-pane").eq(0).addClass("active");
+	$(".tab-pane").eq(0).addClass("in");
+	$("#main-nav-list li").eq(0).addClass("active");
+	$("#main-nav-list li").eq(0).trigger("click");
+}
+
+
+
+	});
+ }(jQuery));
+$(document).ready(function() {
+    //append_item()
+     
+    var clipboard = new ClipboardJS('button');
+    clipboard.on('success', function(e) {
+    //var kampret = e.target;
+    //kampret.html("makasih");
+    console.log(e.text);
+    });
+    
+    $(".kodevoucher button").click(function(){
+    var ini = $(this);
+    ini.attr("disabled",true)
+    ini.html('<i class="fas fa-check"></i> Tersalin');
+    setTimeout(function(){
+      ini.html('Salin');
+      ini.attr("disabled",false)
+    },5000)
+    })
+    
+    $('#pop-1').on('show.bs.modal', function (e) {
+     $('body').addClass('padding-zero');
+    });
+    
+    $('#pop-2').on('show.bs.modal', function (e) {
+     $('body').addClass('padding-zero');
+    });
+});
+//PROMO LAINNYA
+ $.googleSheetToJSON(SPREADSHEET_ID)
+  .done(function(rows){
+    //shuffle(rows)
+    console.log(rows);
+	var promo_num = 0;
+    for(var i=0;i<rows.length;i++){
+      var tipe = rows[i].kategori;
+	  var skrg = new Date().getTime();
+	  var start_date = new Date(rows[i].start).getTime();
+	  var end_date = new Date(rows[i].end).getTime();
+	  console.log(start_date)
+	  console.log(end_date)
+	  console.log(skrg)
+	  
+	  if(promo_num<6){
+		 
+		  if(tipe === "PROMO"){
+			
+			if(skrg <= end_date){
+				 promo_num++;
+				console.log("oke")
+				$(".promo-slide").append('<div class="col-xs-4" style="margin-bottom:15px !important">'+
+					'<a href="'+ rows[i].link +'">'+
+					  '<img src="'+ rows[i].image +'" alt="" class="img-responsive">'+
+					'</a>'+
+				 ' </div>');
+			 }
+		  }
+      }
+    }
+		
+  })
+  .fail(function(err){
+    console.log('error!', err);
+  });
+
+
+//VOUCHERS   
+var now_time = new Date().getTime();
+
+  var tnc;
+  var tnc_list;
+  var voucher_num=0; 
+  $.googleSheetToJSON(SPREADSHEET_VOUCHER)
+  .done(function(rows){
+    for(var i=0;i<rows.length;i++){
+        
+        var promo_category = rows[i].kategori;
+        var promo_type = rows[i].tipe;
+        var time_end= new Date(rows[i].endtime).getTime();
+        var time_start= new Date(rows[i].starttime).getTime();
+        var tanggal_end= new Date(rows[i].endtime).getDate();
+        var tahun_end = new Date(rows[i].endtime).getFullYear();
+        var bulan_end_real = Number((new Date(rows[i].endtime).getMonth()));
+        var coupon_type = rows[i].coupontype;
+        
+        var tanggal_start= new Date(rows[i].starttime).getDate();
+        var tahun_start = new Date(rows[i].starttime).getFullYear();
+        var bulan_start_real = Number((new Date(rows[i].starttime).getMonth()));
+        
+        //$(".max_potongan").digits();
+        
+        //console.log(time_start)
+        //console.log(now_time)
+        
+        
+        
+        /* HIDE IF EXPIRED */
+        if(now_time >= time_start && now_time <= time_end){
+            
+            if(promo_type=="COUPON"){
+              console.log(rows[i].coupontype);
+              
+              $("body").append('<div class="modal fade bd-example-modal-lg" tabindex="-1" style="margin-top:3%;" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="tnc-'+ i +'">'+
+                '<div class="modal-dialog modal-lg">'+
+                '<div class="modal-content">'+
+                  '<div class="modal-header">'+
+                '<button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true" style=" font-size:16pt; position: relative;top: 20px; right: 15px;">X</span> </button>'+
+                  '<h2 style="text-align: left; padding-left: 10px;    font-size: 20px; font-weight: bold;" >Syarat dan Ketentuan '+ rows[i].promoname +'</h2>'+            
+                  '</div>'+
+                  '<div class="modal-body">'+
+                  '<ul style="list-style:decimal; padding-left:20px;"><br />'+            
+                  '</ul> '+
+                  '</div>'+           
+                '</div>'+
+                '</div>'+
+              '</div>');
+              
+              if(coupon_type=="Cashback"){
+                $(".brand-voucher").find(".swiper-wrapper").append('<div class="swiper-slide swiper-no-hov">'+
+                '<div class="col-xs-12 kodevoucher one">'+
+                '<h3>'+ rows[i].deskripsi +'</h3>'+
+                '<p style="color: #666666;font-size:14px;margin-bottom: 13px !important;">Cashback '+ rows[i].diskon +'  maksimal Rp <span class="money">'+ rows[i].maxpotongan +'</span></p>'+
+                '<input type="text" value="'+ rows[i].kodevoucher +'" id="kode-'+ i +'" readonly="" placeholder=""><button class="salin" data-clipboard-target="#kode-'+ i +'">Salin</button>'+
+                '<a class="view_tnc" data-toggle="modal" data-target="#tnc-'+ i +'"><p class="sklink">Syarat & Ketentuan</p> </a>'+
+                '</div>'+
+              '</div>');
+              }else{
+                $(".brand-voucher").find(".swiper-wrapper").append('<div class="swiper-slide swiper-no-hov">'+
+                '<div class="col-xs-12 kodevoucher one">'+
+                '<h3>'+ rows[i].deskripsi +'</h3>'+
+                '<p style="color: #666666;font-size:14px;margin-bottom: 13px !important;">Potongan '+ rows[i].diskon +'  maksimal Rp <span class="money">'+ rows[i].maxpotongan +'</span></p>'+
+                '<input type="text" value="'+ rows[i].kodevoucher +'" id="kode-'+ i +'" readonly="" placeholder=""><button class="salin" data-clipboard-target="#kode-'+ i +'">Salin</button>'+
+                '<a class="view_tnc" data-toggle="modal" data-target="#tnc-'+ i +'"><p class="sklink">Syarat & Ketentuan</p> </a>'+
+                '</div>'+
+              '</div>');
+              }
+              
+              
+              
+              
+              
+              voucher_num++;
+              console.log(voucher_num)
+              tnc = rows[i].tnc
+              tnc_list = tnc.split(';');
+                
+              for(var j=0; j < tnc_list.length; j++){
+                $("#tnc-"+ i +"").find("ul").append("<li>"+ tnc_list[j] +"</li>")
+              }
+              
+              
+              
+              // each row is a row of data from the spreadsheet
+              var clipboard = new ClipboardJS('button');
+                clipboard.on('success', function(e) {
+                //var kampret = e.target;
+                //kampret.html("makasih");
+                console.log(e.text);
+                });
+                
+                $(".kodevoucher button.salin").click(function(){
+                var ini = $(this);
+                ini.attr("disabled",true)
+                ini.html('<i class="fas fa-check"></i> Tersalin');
+                setTimeout(function(){
+                  ini.html('Salin Kode');
+                  ini.attr("disabled",false)
+                },5000)
+                });
+                
+               
+            }
+          $('.modal').on('show.bs.modal', function (e) {
+            $('body').addClass('padding-zero');
+          });
+          //$(".money").digits();
+
+
+          
+          if(voucher_num>3){
+          
+            $(".vouchernext").show();
+            $(".voucherprev").show();
+            var slidevoucher = new Swiper('.brand-voucher', {
+              nextButton: '.vouchernext',
+              prevButton: '.voucherprev',
+              pagination: '.swiper-pagination',
+              paginationClickable: true,
+              slidesPerView: 4,
+              spaceBetween: 10,
+              freemode:false,
+              loop:false,
+              preloadImages: true,
+              lazyLoading: true,
+              lazyLoadingInPrevNext: false,
+              watchSlidesProgress: true,
+              watchSlidesVisibility: true,        
+              grabCursor: true,
+              lazyLoadingOnTransitionStart:false,
+              onSlideChangeEnd: function (swiper) {
+                var nomer = swiper.activeIndex;
+                $(".voucher-thumbs > .swiper-wrapper > .swiper-slide").eq(nomer).addClass("live");
+                $(".voucher-thumbs > .swiper-wrapper > .swiper-slide").eq(nomer).siblings().removeClass("live");
+              }
+            }); 
+          } 
+          if(voucher_num==3){
+          
+            $(".vouchernext").hide();
+            $(".voucherprev").hide();
+            var slidevoucher = new Swiper('.brand-voucher', {
+              nextButton: '.vouchernext',
+              prevButton: '.voucherprev',
+              pagination: '.swiper-pagination',
+              paginationClickable: true,
+              slidesPerView: 3,
+              spaceBetween: 20,
+              freemode:false,
+              loop:false,
+              preloadImages: true,
+              lazyLoading: true,
+              lazyLoadingInPrevNext: false,
+              watchSlidesProgress: true,
+              watchSlidesVisibility: true,        
+              grabCursor: true,
+              lazyLoadingOnTransitionStart:false,
+              onSlideChangeEnd: function (swiper) {
+                var nomer = swiper.activeIndex;
+                $(".voucher-thumbs > .swiper-wrapper > .swiper-slide").eq(nomer).addClass("live");
+                $(".voucher-thumbs > .swiper-wrapper > .swiper-slide").eq(nomer).siblings().removeClass("live");
+              }
+            });
+          }
+          if(voucher_num==2){
+            $(".vouchernext").hide();
+            $(".voucherprev").hide();
+            var slidevoucher = new Swiper('.brand-voucher', {
+              nextButton: '.vouchernext',
+              prevButton: '.voucherprev',
+              pagination: '.swiper-pagination',
+              paginationClickable: true,
+              slidesPerView: 2,
+              spaceBetween: 20,
+              freemode:false,
+              loop:false,
+              preloadImages: true,
+              lazyLoading: true,
+              lazyLoadingInPrevNext: false,
+              watchSlidesProgress: true,
+              watchSlidesVisibility: true,        
+              grabCursor: true,
+              lazyLoadingOnTransitionStart:false,
+              onSlideChangeEnd: function (swiper) {
+                var nomer = swiper.activeIndex;
+                $(".voucher-thumbs > .swiper-wrapper > .swiper-slide").eq(nomer).addClass("live");
+                $(".voucher-thumbs > .swiper-wrapper > .swiper-slide").eq(nomer).siblings().removeClass("live");
+              }
+            });
+          }
+          
+          if(voucher_num==1){
+            $(".vouchernext").hide();
+            $(".voucherprev").hide();
+            var slidevoucher = new Swiper('.brand-voucher', {
+              nextButton: '.vouchernext',
+              prevButton: '.voucherprev',
+              pagination: '.swiper-pagination',
+              paginationClickable: true,
+              slidesPerView: 1,
+              spaceBetween: 20,
+              freemode:false,
+              loop:false,
+              preloadImages: true,
+              lazyLoading: true,
+              lazyLoadingInPrevNext: false,
+              watchSlidesProgress: true,
+              watchSlidesVisibility: true,        
+              grabCursor: true,
+              lazyLoadingOnTransitionStart:false,
+              onSlideChangeEnd: function (swiper) {
+                var nomer = swiper.activeIndex;
+                $(".voucher-thumbs > .swiper-wrapper > .swiper-slide").eq(nomer).addClass("live");
+                $(".voucher-thumbs > .swiper-wrapper > .swiper-slide").eq(nomer).siblings().removeClass("live");
+              }
+            });
+          }
+          
+        }
+        
+      }
+      
+  })
+  .fail(function(err){
+    console.log('error!', err);
+  })
+</script>
+
+ 
+
+<script type="text/javascript">document.title = "❤ Dapatkan Promo Kode Voucher Belanja 2019 | BLANJA.com" ; </script>
+</body>
+</html>
+<!--content-right_end-->
+</div>
+<!--content_end-->
+<footer class="footerv2">
+	<input type="hidden" labeLing="ga-spm" value=""/>
+    <!-- GA Data Analysis End-->
+	<div class="footerv2-link">
+		<div class="footerv2-wrapper footerv2--clearfix">
+			<div class="footerv2-linkleft footerv2--clearfix">
+				<div class="footerv2-linkleft__wrap">
+					<p>Info BLANJA</p>
+					<ul class="footerv2-linkleft__list">
+						<li><a href="http://karir.blanja.com/">Karir - <b><span style="color: #E3211D">We're Hiring!</span></b></a></li>
+						<li><a href="http://blog.blanja.com/">Blog Resmi</a></li>
+						<li><a href="//www.blanja.com/help/questionlist-45-1">Perjanjian Pengguna</a></li>
+						<li><a href="//www.blanja.com/help/questionlist-47-1">Kebijakan Privasi</a></li>
+						<li><a href="//www.blanja.com/kp/term-condition-blanja">Syarat &amp; Ketentuan</a></li>
+						<li><a href="//www.blanja.com/help/faq-0-0">FAQ (Bantuan)</a></li>
+					</ul>
+				</div>
+				<div class="footerv2-linkleft__wrap">
+					<p>Blanja di BLANJA.com</p>
+					<ul class="footerv2-linkleft__list">
+						<li><a href="//www.blanja.com/help/questionlist-1-0">Pengguna Baru</a></li>
+						<li><a href="//www.blanja.com/help/questionlist-11-0">Bertransaksi</a></li>
+						<li><a href="//www.blanja.com/help/questionlist-12-1">Metode Pembayaran</a></li>
+						<li><a href="//www.blanja.com/help/questionlist-20-0">Pengembalian Barang</a></li>
+					</ul>
+				</div>
+				<div class="footerv2-linkleft__wrap">
+					<p>Berjualan di BLANJA.com</p>
+					<ul class="footerv2-linkleft__list">
+						<li><a href="//www.blanja.com/help/questionlist-22-1">Membuka Toko</a></li>
+						<li><a href="//www.blanja.com/help/questionlist-26-1">Mengelola Produk</a></li>
+						<li><a href="//www.blanja.com/help/questionlist-46-1">Persetujuan Penjual</a></li>
+					</ul>
+				</div>
+				<div class="footerv2-linkleft__wrap">
+					<p>Layanan Pelanggan</p>
+					<ul class="footerv2-linkleft__list">
+						<li><a href="javascript:void(0)" id="zenboxfooter"><img src="//s2.blanja.com/static/public/prime/img/footer/social/ic_chat_cs.png">Live Support</a></li>
+						<li><a href="tel:+622180667878"><img src="//s2.blanja.com/static/public/prime/img/footer/social/phone.png">021 - 8066 7878</a></li>
+						<li><a href="mailto:support@blanja.com"><img src="//s2.blanja.com/static/public/prime/img/footer/social/mail.png">support@blanja.com</a></li>
+						<li><a href="javascript:void(0)" id="suggestInstabug" onclick="ibgSdk.reportBug()"><img src="//s2.blanja.com/static/public/prime/img/footer/social/bugs.png">Laporkan Gangguan dan Saran</a></li>
+					</ul>
+					
+				</div>
+			</div>
+			<div class="footerv2-linkright">
+				<p>Temukan BLANJA di</p>
+				<ul class="footerv2-linkright__list-social footerv2--clearfix">
+					<li><a href="http://www.facebook.com/blanjacom" target="_blank"><img src="//s2.blanja.com/static/public/prime/img/footer/social/fb.png"></a></li>
+					<li><a href="http://twitter.com/blanjacom" target="_blank"><img src="//s2.blanja.com/static/public/prime/img/footer/social/twitter.png"></a></li>
+					<li><a href="https://www.youtube.com/c/blanja" target="_blank"><img src="//s2.blanja.com/static/public/prime/img/footer/social/youtube.png"></a></li>
+					<li><a href="http://www.instagram.com/blanjacom" target="_blank"><img src="//s2.blanja.com/static/public/prime/img/footer/social/ig.png"></a></li>
+					<li><a href="http://www.linkedin.com/company/blanja-com" target="_blank"><img src="//s2.blanja.com/static/public/prime/img/footer/social/linkedin.png"></a></li>
+				</ul>
+				
+				<ul class="footerv2-linkright__app">
+					<li><a href="https://play.google.com/store/apps/details?id=com.blanja.apps.android" target="_blank"><img src="//s2.blanja.com/static/public/prime/img/footer/social/googleplay@2x.png"></a></li>
+					<li><a href="https://itunes.apple.com/id/app/blanja-jual-beli-online/id1167022068?l=id&mt=8" target="_blank"><img src="//s2.blanja.com/static/public/prime/img/footer/social/appstore@2x.png"></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="footerv2-copyright">
+        <p>Copyright 2019 &copy; MetraPlasa. All Rights Reserved. | <a href="mailto:support@blanja.com">support@blanja.com</a></p>
+    </div>
+    <div id="mask"></div>
+</footer>
+
+
+<script>
+var baseUrl="//www.blanja.com",resUrl="//s2.blanja.com",res2Url="//s2.blanja.com";
+var itemUrl="//item.blanja.com",chatUrl="//chat.blanja.com",tradeUrl="//trade.blanja.com",memUrl="https://member.blanja.com",httpsTradeUrl="https://trade.blanja.com";
+var mainsiteUrl="//www.blanja.com";
+</script>
+
+<script type="text/javascript" src="//s2.blanja.com/static/??public/js/jquery-2.1.3.min.js,public/js/jquery-ui-1.10.3.custom.js,public/js/jquery-migrate-1.2.0.js,public/newdesign/js/common.js,marketplace/js/marketplace.js,public/components/handlebars/js/handlebars-v1.1.2.js,public/js/loxia2/jquery.loxiacore-2.js,public/js/waoj/bootstrap.min.js?0d308468cab4b7d30a2a97c77b4e7d20"></script>
+
+<script type="text/javascript" src="//s2.blanja.com/static/??public/js/loxia2/jquery.loxia.locale_in_ID.js,public/messages/messageHead_in_ID.js,member/messages/message_dialogSignIn_in_ID.js,trade/messages/messageTrade_in_ID.js?0d308468cab4b7d30a2a97c77b4e7d20"></script>
+
+<script type="text/javascript" src="//s2.blanja.com/static/??public/prime/vendor/js/perfect-scrollbar.min.js,public/prime/js/common.js,public/prime/js/menu.js,public/js/utils.js,public/js/jquery.json-2.6.0.min.js,public/js/jquery-google-sheet-to-json.min.js,public/newdesign/js/vendor/jquery.cookie.js,public/newdesign/js/stickyHeader.js,trade/js/newdesign/miniShoppingCart.js,marketplace/js/newdesign/searchItem.js,trade/js/newdesign/trade-common.js?0d308468cab4b7d30a2a97c77b4e7d20"></script>
+
+<script type="text/javascript" src="//s2.blanja.com/static/??public/newdesign/js/analytics/analyticsInit.js,public/newdesign/js/analytics/ga.js,public/components/zenbox/zenbox.js?0d308468cab4b7d30a2a97c77b4e7d20"></script>
+
+<script type="text/javascript">
+	// screen content
+	var $ = jQuery.noConflict();
+</script>
+
+
+<script type="text/javascript">$j(function(){loxia.init({region:"in_ID"});});</script>
+	
+<script type="text/javascript" defer="defer">
+setTimeout(
+function()
+{
+  if (location.search.indexOf('utm_expid') > -1) {history.replaceState('page', 'Title', '/')}
+}, 5000);
+</script>
+
+<script src='https://s3.amazonaws.com/instabug-pro/sdk_releases/instabugsdk-1.2.1-beta.min.js'></script>
+<script type="text/javascript">
+	ibgSdk.init({
+	    token: '770628aefaebeeebd65debcab9630a3c'
+	});
+</script>
+
+</body>
+</html>
+<script id="f5_cspm">(function(){var f5_cspm={f5_p:'OKNGHKCDIHCALJEAGINOAKLDLMJOINEOAAIOLAONLIJOKADKCNLDNEEDKICILOOBPALBKBFFAAJLPMMMIMLAGMPIAAAMEEKHFJLKPLMBKOPEOCBAHLLDLLFNJEGFCFOM',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,40,(latency>>8));str=f5_cspm.set_byte(str,41,(latency&0xff));str=f5_cspm.set_byte(str,35,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr0683287389aaaaaaaaaaaaaaaa_cspm_='+encodeURIComponent(cookie_val)+';path=/';}
+return;}}
+catch(err){return;}
+setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'&&pair[1]=='1234')
+{var d=new Date();d.setTime(d.getTime()-1000);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;';setTimeout(f5_cspm.wait_perf_data,100);}}}}
+f5_cspm.go();}());</script>

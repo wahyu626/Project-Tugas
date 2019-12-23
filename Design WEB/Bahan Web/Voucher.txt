@@ -1,0 +1,435 @@
+.kodevoucher{
+  background: #ffffff;
+  color: #666;
+  text-align: center;
+  padding: 10px 18px; 
+  border-radius: 5px;
+  box-shadow: 0 1px 6px 1px rgba(51, 51, 51, 0.1);
+  width:48.6% !important;
+  margin-right: 2.5%;
+}
+ 
+
+
+.kodevoucher:last-child{
+  margin-right: 0 !important;
+    float: right;
+    margin-left: 0 !important;
+}
+
+@media only screen and (max-width: 768px) {
+  .kodevoucher{
+    width:30% !important;
+    margin-right:36px;
+  }
+}
+
+.kodevoucher input{
+  color: #666666; text-align:center; font-weight:bold; font-size:1.2em; border:1px #dddddd dashed; background:#f8f8f8; width:50%; padding: 7px 0;
+}
+
+
+.kodevoucher h3 {
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    font-size: 16pt; 
+  
+}
+
+.kodevoucher button{
+  font-size: 1vw;
+    color: white;
+    background: #e3211d;
+    padding: 11px 30px 27px;
+    border: none;
+    margin-bottom: 20px;
+    height: 36px;
+}
+
+
+.kodevoucher .sklink{
+  width: 100%;
+  height: 20px; 
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: center;
+  color: #e3211d;
+  text-decoration:underline;
+      cursor: pointer;
+}
+
+.kodevoucher .new{
+  font-size:10px; background:#d92c27; color:white; padding:4px; margin-bottom:3px; border-radius:4px; top:-12px; letter-spacing:1px;
+}
+
+.padding-zero{
+  padding-right:0 !important;
+}
+
+.padding-zero.modal-open {
+    overflow: auto;
+ }
+
+ .dbs-but{
+      width: 100%;
+    background: white;
+    padding: 13px;
+    border-radius: 6px;
+    box-shadow: 0 1px 6px 1px rgba(51, 51, 51, 0.1);
+ }
+
+
+/*Kode Voucher slider 5 end here*/
+
+
+.swiper-no-hov{
+	background: whitesmoke;
+}
+.swiper-no-hov:hover{
+	margin-top: 0px !important;
+	box-shadow: none;
+}
+
+a, a:visited {
+	text-decoration: none;
+}
+
+
+#hilite {
+    background: #e3211d;
+    color: #fff;
+    text-align: center;
+    padding: 34px 18px;
+    border-radius: 5px;
+    box-shadow: 0 1px 6px 1px rgba(51, 51, 51, 0.1);
+    /* width: 48.6% !important; */
+    margin-right: 2.5%;
+    width: 100% !important;
+    margin-bottom: 2%;
+}
+ 
+#hilite:last-child{
+  margin-right: 0 !important;
+    float: right;
+    margin-left: 0 !important;
+}
+
+@media only screen and (max-width: 768px) {
+  #hilite{
+    width:30% !important;
+    margin-right:36px;
+  }
+}
+
+#hilite input{
+  color: #666666; text-align:center; font-weight:bold; font-size:1.5vw; border:1px #dddddd dashed; background:#f8f8f8; width:60%; padding: 7px 0;
+}
+
+
+#hilite h3 {
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    font-size: 16pt;
+    font-family: 'FS Hackney Web', 'Lato',Arial;
+    margin-top: 5px;
+    margin-bottom: 0px !important;
+}
+
+#hilite button{
+  font-size: 0.8vw;
+    color: white;
+    background: #000;
+    padding: 11px 30px 5px;
+    border: none;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+ 
+#hilite .sklink{ 
+  height: 0px;
+  font-family: 'FS Hackney Web', 'Lato',Arial;
+  font-size: 13px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: right;
+  color: #fff; 
+}
+
+.kiri-70{
+      width: 70%;
+    float: left;
+    margin-top: 5px;
+}
+.kiri-30{
+    width: 30%;
+    float: right;
+    margin-top: 17px;
+    padding-left: 25px;
+    margin-right: 0;
+}
+
+.padding-zero{
+  padding-right:0 !important;
+}
+
+.padding-zero.modal-open {
+    overflow: auto;
+ }
+ 
+ .tab-pane{
+	padding:20px 0;
+ }
+
+
+/*Kode Voucher slider 5 start here*/
+
+.kodevoucher.single {
+    background: #ffffff;
+    color: #666;
+    text-align: center;
+    padding: 20px 18px;
+    border-radius: 5px;
+    box-shadow: 0 1px 6px 1px rgba(51, 51, 51, 0.1);
+    /* width: 48.6% !important; */
+    margin-right: 2.5%;
+    width: 100% !important;
+    margin-bottom: 2%;
+}
+ 
+.kodevoucher:last-child{
+  margin-right: 0 !important;
+    float: right;
+    margin-left: 0 !important;
+}
+
+@media only screen and (max-width: 768px) {
+  .kodevoucher{
+    width:30% !important;
+    margin-right:36px;
+  }
+}
+
+.kodevoucher.single input{
+  color: #666666; text-align:center; font-weight:bold; font-size:1.5vw; border:1px #dddddd dashed; background:#f8f8f8; width:60%; padding: 7px 0;
+}
+
+
+.kodevoucher.single h3 {
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    font-size: 16pt; 
+    margin-top: 5px;
+    margin-bottom: 0px !important;
+}
+
+.kodevoucher.single button{
+     font-size: 0.9em;
+    color: white;
+    background: #e3211d;
+    height: 39px;
+    border: none;
+    margin-bottom: 0px;
+    font-weight: bold;
+    top: -1px;
+    position: relative;
+    width: 120px;
+}
+ 
+.kodevoucher.single .sklink{ 
+  height: 0px; 
+  font-size: 13px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: right;
+  color: #e3211d; 
+  cursor: pointer;
+}
+.kiri-70{
+      width: 70%;
+    float: left;
+    margin-top: 5px;
+}
+.kiri-30{
+    width: 30%;
+    float: right;
+    margin-top: 17px;
+    padding-left: 25px;
+}
+
+.padding-zero{
+  padding-right:0 !important;
+}
+
+.padding-zero.modal-open {
+    overflow: auto;
+ }
+
+ .dbs-but{
+      width: 100%;
+    background: white;
+    padding: 13px;
+    border-radius: 6px;
+    box-shadow: 0 1px 6px 1px rgba(51, 51, 51, 0.1);
+ }
+
+
+.sklink-slim{
+  margin: 0 auto;
+    width: 1140px;
+    background: white;
+    padding: 7px;
+    margin-top: 10px;
+    border-radius: 3px;
+    border: 1px solid #e8e8e8;
+        color: #636363;
+    font-weight: bold;
+    box-shadow: 0 1px 6px 1px rgba(51, 51, 51, 0.1);
+    text-align: center;
+}
+
+
+/*Kode Voucher slider 5 end here*/
+
+
+</style>
+
+<body>
+</div>
+<section class="default" >
+	<div class="container">
+		<div class="row">
+		    <img class="header_img" src="https://s.blanja.com/picspace/-1/-1/1200.250_1f1989cba1394a2a8becd8858046bb43.jpg" width="100%">
+		</div>
+	</div>
+</section>
+
+
+<section style="padding:20px 0;background:#f5f5f5; " >
+
+<div class="container" style="    padding: 0;">
+<div class="col-md-12 kodevoucher single one" style="margin-top: 0px; margin-bottom: -20px; background: #e3211d;    padding: 30px 30px 30px 0;">
+        <div class="col-md-6">
+            <h3 style="color: #fff;">Dapatkan Cashback 10% Hingga Rp 50.000 </h3>
+            <p style="color: #fff;font-size:16px;margin-bottom: 0px;">Tanpa Minimum Transaksi</p>
+        </div>
+
+        <div class="col-md-6">
+            <div class="kiri-70"> <input type="text" value="BLANJAGOPAY" id="kode-gojek" readonly=""><button style="    background: #000;" data-clipboard-target="#kode-gojek">Salin</button> </div>
+            <a class="kiri-30" data-toggle="modal" data-target="#pop-gojek"><p class="sklink" style="color: #fff;">Syarat & Ketentuan</p> </a>
+        </div>
+      </div>
+</div>
+
+</section>
+
+
+<!-- NAV BAR --> 
+<section class="default tabNavbar">
+  <nav role="navigation" class="container main-nav" id="main-nav">
+    <ul id="main-nav-list" class="nav nav-pills"> 
+      
+    </ul>
+  </nav>
+</section>
+
+
+<!-- PRODUCTS -->
+<section class="default" style="padding:0px 0 0px; ">
+	<div class="container clearfix" id="main-nav">
+		<div class="row gutter-10">
+		  <div id="myTabContent" class="tab-content">
+			<div role="tabpanel" class="tab-pane fade" id="apps" aria-labelledby="apps-tab">
+				
+				<div class="apps">
+					<div class="col-xs-4 kodevoucher one" style="margin-top: 0%;   width: 31.3% !important;  margin-right: 3% !important;"> 
+						<h3>Voucher Diskon App</h3>
+						<p style="color: #666666;font-size:16px;">Diskon Hingga Rp 500.000</p>
+						<input type="text" value="DISKONAPP" id="kode-7" readonly /><button data-clipboard-target="#kode-7">Salin</button>
+						<a data-toggle="modal" data-target="#pop-7"><p class="sklink">Syarat & Ketentuan</p> </a>
+					</div>
+	 
+					<div class="col-xs-4 kodevoucher two" style="margin-top: 0%; width: 31.3% !important; margin-right: 3% !important;" >
+						<h3>Voucher General APP</h3>
+						<p style="color: #666666;font-size:16px;">Cashback Hingga Rp 500.000</p>
+						<input type="text" value="CASHBACKAPP7" id="kode-8"  readonly /><button data-clipboard-target="#kode-8">Salin</button>
+						<a data-toggle="modal" data-target="#pop-8"><p class="sklink">Syarat & Ketentuan</p> </a>
+					</div>
+
+					<div class="col-xs-4 kodevoucher two" style="margin-top: 0%;  width: 31.3% !important;   margin-right: 0% !important;    float: left;" >
+						<h3>Voucher Non Elektronik APP</h3>
+						<p style="color: #666666;font-size:16px;">Cashback Hingga Rp 150.000</p>
+						<input type="text" value="CASHBACKAPP15" id="kode-9"  readonly /><button data-clipboard-target="#kode-9">Salin</button>
+						<a data-toggle="modal" data-target="#pop-9"><p class="sklink">Syarat & Ketentuan</p> </a> 
+					</div>
+				
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			
+			<div role="tabpanel" class="tab-pane fade" id="reg" aria-labelledby="reg-tab">
+				<div class="reg">
+					<!-- <div class="col-md-12 kodevoucher one" id="hilite" style="margin-top: 0px;    margin-bottom: 0;">
+					  <div class="col-md-6">
+						  <h3>Kode Voucher General</h3>
+						  <p style="color: #fff;font-size:16px;margin-bottom: 0px;">Potongan Langsung 5% Hingga Rp 250.000</p>
+					  </div>
+
+					  <div class="col-md-6">
+						  <div class="kiri-70"> <input type="text" value="PUASBLANJA" id="kode-6" readonly=""><button data-clipboard-target="#kode-6">Salin</button> </div>
+						  <a class="kiri-30" data-toggle="modal" data-target="#pop-6"><p class="sklink">Syarat & Ketentuan</p> </a>
+					  </div>
+					</div> -->
+					
+					<div class="col-xs-4 kodevoucher one" style="margin-top: 0%; width: 31.3%; width: 31.3%  !important; margin-right: 3% !important;" >
+						<h3>Kode Voucher General</h3>
+						<p style="color: #666666;font-size:16px;">Potongan Langsung 5% Hingga Rp 250.000</p>
+						<input type="text" value="PUASBLANJA" id="kode-6"  readonly /><button data-clipboard-target="#kode-6">Salin</button>
+						<a data-toggle="modal" data-target="#pop-6"><p class="sklink">Syarat & Ketentuan</p> </a> 
+					</div>
+
+					
+					<div class="col-xs-4 kodevoucher two" style="margin-top: 0%; width: 31.3%; width: 31.3%  !important; margin-right: 3% !important;" >
+						<h3>Voucher General</h3>
+						<p style="color: #666666;font-size:16px;">Cashback Hingga Rp 500.000</p>
+						<input type="text" value="SUPERCASHBACK" id="kode-1"  readonly /><button data-clipboard-target="#kode-1">Salin</button>
+						<a data-toggle="modal" data-target="#pop-1"><p class="sklink">Syarat & Ketentuan</p> </a> 
+					</div>
+
+					<div class="col-xs-4 kodevoucher two" style="margin-top: 0%;    margin-right: 0% !important; width: 31.3%  !important; "> 
+						<h3>Voucher Non Elektronik</h3>
+						<p style="color: #666666;font-size:16px;">Cashback Hingga Rp 100.000</p>
+						<input type="text" value="CASHBACK100" id="kode-3" readonly /><button data-clipboard-target="#kode-3">Salin</button>
+						<a data-toggle="modal" data-target="#pop-3"><p class="sklink">Syarat & Ketentuan</p> </a>
+					</div> 
+				
+					<div class="col-xs-4 kodevoucher one" style="margin-top: 2%;   width: 31.3% !important;  margin-right: 3% !important;"> 
+						<h3>Voucher Home Living</h3>
+						<p style="color: #666666;font-size:16px;">Potongan Langsung Rp 50.000</p>
+						<input type="text" value="DISKON50" id="kode-5" readonly /><button data-clipboard-target="#kode-5">Salin</button>
+						<a data-toggle="modal" data-target="#pop-5"><p class="sklink">Syarat & Ketentuan</p> </a>
+					</div>
+	 
+					<div class="col-xs-4 kodevoucher two" style="margin-top: 2%; width: 31.3% !important; margin-right: 3% !important;" >
+						<h3>Voucher Digital Produk</h3>
+						<p style="color: #666666;font-size:16px;">Cashback Hingga Rp 50.000</p>
+						<input type="text" value="CASHBACK50" id="kode-2"  readonly /><button data-clipboard-target="#kode-2">Salin</button>
+						<a data-toggle="modal" data-target="#pop-2"><p class="sklink">Syarat & Ketentuan</p> </a>
+					</div>
+
+					<div class="col-xs-4 kodevoucher two" style="margin-top: 2%;  width: 31.3% !important;   margin-right: 0% !important;    float: left;" >
+						<h3>Voucher Pulsa & Paket Data</h3>
+						<p style="color: #666666;font-size:16px;">Cashback Hingga Rp 50.000</p>
+						<input type="text" value="PASTICASHBACK" id="kode-4"  readonly /><button data-clipboard-target="#kode-4">Salin</button>
+						<a data-toggle="modal" data-target="#pop-4"><p class="sklink">Syarat & Ketentuan</p> </a> 
+					</div>
+				
